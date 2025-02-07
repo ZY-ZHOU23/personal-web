@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 3248d8db-d147-4471-a27f-ed4132e818dc
+      url: https://zhiyuanzhou.netlify.app
