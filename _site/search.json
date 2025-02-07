@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "personal-website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 4\n\n[1] 5"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 4\n\n[1] 5\n\n\n\nrunif(3)\n\n[1] 0.08217277 0.53819280 0.87203659"
   }
 ]
