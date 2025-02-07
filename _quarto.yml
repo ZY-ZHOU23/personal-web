@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  # title: "personal-website"
+  navbar:
+    left: # can change to right
+      - href: index.qmd #can change href to 
+        text: Home # if delete, gonna be file title
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
