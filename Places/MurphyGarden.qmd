@@ -1,0 +1,8 @@
+---
+title: "Franklin D. Murphy Sculpture Garden"
+image: "../Images/explore-murphy.jpg"
+---
+
+![Franklin D. Murphy Sculpture Garden](../Images/explore-murphy.jpg)
+
+The Franklin D. Murphy Sculpture Garden is a garden located on the campus of the University of California, Los Angeles. It is run by the Hammer Museum.

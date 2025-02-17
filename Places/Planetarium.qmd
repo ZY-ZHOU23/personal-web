@@ -1,0 +1,8 @@
+---
+title: "UCLA Planetarium"
+image: "../Images/planetarium.jpg"
+---
+
+![UCLA planetarium](../Images/planetarium.jpg)
+
+The UCLA Planetarium finished construction in 1957 as part of the Mathematical Sciences Building, and is operated by the UCLA Department of Physics and Astronomy. Over its lifetime, the 24-foot diameter dome has housed three different star projectors (see below). With seating for 49 people, the UCLA Planetarium is a unique and intimate setting for visitors to learn about the universe. The facility offers shows to introductory astronomy classes, the Los Angeles community, and educational groups. Shows are presented primarily by UCLA Astronomy graduate students.

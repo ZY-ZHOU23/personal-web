@@ -1,5 +1,10 @@
 ---
 title: "Places"
+listing:
+  contents: Places
+  type: grid
 ---
 
+
 This page shows all my favorite places on campus. 
+
