@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Places"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This page shows all my favorite places on campus. 

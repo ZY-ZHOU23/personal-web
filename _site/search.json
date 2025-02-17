@@ -2,15 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Places",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This page shows all my favorite places on campus."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Zhiyuan Zhou",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 4\n\n[1] 5\n\n\n\nrunif(3)\n\n[1] 0.08217277 0.53819280 0.87203659"
+    "text": "Hi, I’m Zhiyuan Zhou, a fourth year undergrad at UCLA studying economics and statistics."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Zhiyuan Zhou",
+    "section": "",
+    "text": "Hi, I’m Zhiyuan Zhou, a fourth year undergrad at UCLA studying economics and statistics."
   }
 ]

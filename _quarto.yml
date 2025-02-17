@@ -1,21 +1,23 @@
 project:
   type: website
-
+  #resources:
+    #- cv.pdf
 website:
-  # title: "personal-website"
+  title: "Zhiyuan Zhou"
+  site-url: https://zhiyuanzhou.netlify.app
+  # description: "My website"
   navbar:
-    left: # can change to right
-      - href: index.qmd #can change href to 
-        text: Home # if delete, gonna be file title
-      - about.qmd
-
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Places"
+        href: about.qmd
+  page-footer:
+    left: "© Copyright 2025 Zhiyuan Zhou."
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
-    toc: true
-
-
-
+    
