@@ -7,6 +7,9 @@ about:
     - text: GitHub
       icon: github
       url: "https://github.com/ZY-ZHOU238"
+    - text: Linkedin
+      icon: linkedin
+      url: "https://www.linkedin.com/in/zhiyuan-zhou-093972341"
 comments: false
 ---
 ::: {.column-page}
