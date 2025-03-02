@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Projects",
     "section": "",
-    "text": "This page shows all my favorite places on campus.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFranklin D. Murphy Sculpture Garden\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal Memo System – SQL, React & Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Planetarium\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Franklin D. Murphy Sculpture Garden\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal Memo System – SQL, React & Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Planetarium\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects/chatbot.html",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Zhiyuan Zhou",
     "section": "",
-    "text": "Hi there! I’m Zhiyuan Zhou, an economics and data science enthusiast with a passion for turning complex data into actionable insights. I recently graduated from UCLA with degrees in Economics and Statistics & Data Science, where I honed my skills in data analysis, modeling, and sustainable strategy development.\nWhen I’m not crunching numbers or building models, you’ll find me exploring nature on a hike, capturing moments through my camera lens, or experimenting with new recipes in the kitchen. I’m also a proud cat lover and enjoy spending time with my furry companion MerMer🐾.\nI’m always eager to connect, collaborate, and learn, so feel free to reach out—whether it’s about data, photography, or the best way to cook a perfect stir-fry! 😊"
+    "text": "Hi there! I’m Zhiyuan Zhou, an economics and data science enthusiast with a passion for turning complex data into actionable insights. I recently graduated from UCLA with degrees in Economics and Statistics & Data Science, where I honed my skills in data analysis, modeling, and sustainable strategy development.\nWhen I’m not crunching numbers or building models, you’ll find me exploring nature on a hike, capturing moments through my camera lens, or experimenting with new recipes in the kitchen. I’m also a proud cat lover and enjoy spending time with my furry companion MerMer🐾.\nI’m always eager to connect, collaborate, and learn, so feel free to reach out—whether it’s about data, photography, or the best way to cook a perfect stir-fry! 😊\n\n\n\n\n  \n  \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n  \n  \n  \n    \n    Previous\n  \n  \n    \n    Next"
   },
   {
     "objectID": "index.html#bio",
@@ -42,10 +42,10 @@
     "text": "Hi there! I’m Zhiyuan Zhou, an economics and data science enthusiast with a passion for turning complex data into actionable insights. I recently graduated from UCLA with degrees in Economics and Statistics & Data Science, where I honed my skills in data analysis, modeling, and sustainable strategy development.\nWhen I’m not crunching numbers or building models, you’ll find me exploring nature on a hike, capturing moments through my camera lens, or experimenting with new recipes in the kitchen. I’m also a proud cat lover and enjoy spending time with my furry companion MerMer🐾.\nI’m always eager to connect, collaborate, and learn, so feel free to reach out—whether it’s about data, photography, or the best way to cook a perfect stir-fry! 😊"
   },
   {
-    "objectID": "Projects/sqlmemo.html#purpose",
-    "href": "Projects/sqlmemo.html#purpose",
-    "title": "Personal Memo System – SQL, React & Python",
-    "section": "Purpose:",
-    "text": "Purpose:\nProvide a secure and structured memo management system for various personal data. Enable automated data backups and trend analysis for financial and health tracking. Offer an intuitive React-based frontend for easy data entry and visualization. Showcase full-stack development skills with SQL, API development, and Python automation. Key Features:\n\n✅ MySQL Database – Secure storage with relational data management.\n\n\n✅ Express.js API – RESTful backend for seamless CRUD operations.\n\n\n✅ React Frontend – Interactive UI for managing memos and visualizing trends.\n\n\n✅ Python Automation – Scheduled database backups and analytical reports.\n\n\n✅ Data Analysis – Uses Pandas, Matplotlib, and Seaborn to provide insights.\n\nThe project is deployed on a Virtual Machine and integrates authentication, category-based organization, and an API-driven backend for structured data management.\n🔗 GitHub Repository: [Insert your GitHub link here]\n🚀 Tech Stack: MySQL, Express.js, React, Node.js, Python, Flask, Pandas, Tailwind CSS, Chart.js\nThis project is a practical learning experience, combining database management, backend development, frontend UI, automation, and data analytics into a single, full-stack system."
+    "objectID": "index.html#mermer",
+    "href": "index.html#mermer",
+    "title": "Zhiyuan Zhou",
+    "section": "",
+    "text": "Previous\n  \n  \n    \n    Next"
   }
 ]
