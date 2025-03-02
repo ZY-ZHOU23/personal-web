@@ -1,12 +1,12 @@
 ---
 title: "Zhiyuan Zhou"
-# image: .jpg
+image: "Images/profileID.jpg"
 about:
   template: trestles
   links:
     - text: GitHub
       icon: github
-      url: "https://github.com/ZY-ZHOU238"
+      url: "https://github.com/ZY-ZHOU23"
     - text: Linkedin
       icon: linkedin
       url: "https://www.linkedin.com/in/zhiyuan-zhou-093972341"
@@ -16,6 +16,12 @@ comments: false
 
 ## Bio
 
-Hi, I'm Zhiyuan Zhou, a fourth year undergrad at UCLA studying economics and statistics. 
+Hi there! I’m Zhiyuan Zhou, an economics and data science enthusiast with a passion for turning complex data into actionable insights. I recently graduated from UCLA with degrees in Economics and Statistics & Data Science, where I honed my skills in data analysis, modeling, and sustainable strategy development.
+
+When I’m not crunching numbers or building models, you’ll find me exploring nature on a hike, capturing moments through my camera lens, or experimenting with new recipes in the kitchen. I’m also a proud cat lover and enjoy spending time with my furry companion MerMer🐾.
+
+I’m always eager to connect, collaborate, and learn, so feel free to reach out—whether it’s about data, photography, or the best way to cook a perfect stir-fry! 😊
+
+
 
 :::

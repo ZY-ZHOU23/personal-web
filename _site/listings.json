@@ -2,8 +2,9 @@
   {
     "listing": "/about.html",
     "items": [
-      "/Places/MurphyGarden.html",
-      "/Places/Planetarium.html"
+      "/Projects/chatbot.html",
+      "/Projects/sqlmemo.html",
+      "/Projects/tradebot.html"
     ]
   }
 ]

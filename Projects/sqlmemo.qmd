@@ -1,0 +1,36 @@
+---
+title: "Personal Memo System – SQL, React & Python"
+image: "../Images/sqlmemo.jpg"
+---
+
+![](../Images/sqlmemo.jpg)
+
+A full-stack personal memo system leveraging MySQL, Express.js, React, and Python for structured data storage, automation, and analytics.
+
+The Personal Memo System is designed to help users efficiently store, manage, and analyze structured personal data, such as financial records, health metrics, and goal tracking. By integrating SQL for data storage, Express.js for API management, React for a user-friendly interface, and Python for automation and analytics, this project serves as a comprehensive digital organization tool.
+
+### Purpose:
+Provide a secure and structured memo management system for various personal data.
+Enable automated data backups and trend analysis for financial and health tracking.
+Offer an intuitive React-based frontend for easy data entry and visualization.
+Showcase full-stack development skills with SQL, API development, and Python automation.
+
+### Key Features:
+
+✅ MySQL Database – Secure storage with relational data management.
+
+✅ Express.js API – RESTful backend for seamless CRUD operations.
+
+✅ React Frontend – Interactive UI for managing memos and visualizing trends.
+
+✅ Python Automation – Scheduled database backups and analytical reports.
+
+✅ Data Analysis – Uses Pandas, Matplotlib, and Seaborn to provide insights.
+
+The project is deployed on a Virtual Machine and integrates authentication, category-based organization, and an API-driven backend for structured data management.
+
+🔗 GitHub Repository: [Insert your GitHub link here]
+
+🚀 Tech Stack: MySQL, Express.js, React, Node.js, Python, Flask, Pandas, Tailwind CSS, Chart.js
+
+This project is a practical learning experience, combining database management, backend development, frontend UI, automation, and data analytics into a single, full-stack system.

@@ -1,10 +1,9 @@
 ---
-title: "Places"
+title: "Projects"
 listing:
-  contents: Places
+  contents: Projects
   type: grid
 ---
 
 
 This page shows all my favorite places on campus. 
-

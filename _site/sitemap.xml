@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zhiyuanzhou.netlify.app/about.html</loc>
-    <lastmod>2025-02-17T23:27:06.680Z</lastmod>
+    <lastmod>2025-03-02T10:12:44.774Z</lastmod>
   </url>
   <url>
-    <loc>https://zhiyuanzhou.netlify.app/Places/MurphyGarden.html</loc>
-    <lastmod>2025-02-17T23:30:16.166Z</lastmod>
+    <loc>https://zhiyuanzhou.netlify.app/Projects/chatbot.html</loc>
+    <lastmod>2025-03-02T10:03:23.414Z</lastmod>
   </url>
   <url>
-    <loc>https://zhiyuanzhou.netlify.app/Places/Planetarium.html</loc>
-    <lastmod>2025-02-17T23:35:19.183Z</lastmod>
+    <loc>https://zhiyuanzhou.netlify.app/Projects/tradebot.html</loc>
+    <lastmod>2025-03-02T10:06:01.963Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zhiyuanzhou.netlify.app/Projects/sqlmemo.html</loc>
+    <lastmod>2025-03-02T10:19:12.991Z</lastmod>
   </url>
   <url>
     <loc>https://zhiyuanzhou.netlify.app/index.html</loc>
-    <lastmod>2025-03-02T02:30:29.193Z</lastmod>
+    <lastmod>2025-03-02T09:55:44.971Z</lastmod>
   </url>
 </urlset>

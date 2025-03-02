@@ -2,36 +2,50 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Places",
+    "title": "Projects",
     "section": "",
-    "text": "This page shows all my favorite places on campus.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFranklin D. Murphy Sculpture Garden\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Planetarium\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This page shows all my favorite places on campus.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFranklin D. Murphy Sculpture Garden\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal Memo System – SQL, React & Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Planetarium\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Places/MurphyGarden.html",
-    "href": "Places/MurphyGarden.html",
+    "objectID": "Projects/chatbot.html",
+    "href": "Projects/chatbot.html",
     "title": "Franklin D. Murphy Sculpture Garden",
     "section": "",
-    "text": "Franklin D. Murphy Sculpture Garden\n\n\nThe Franklin D. Murphy Sculpture Garden is a garden located on the campus of the University of California, Los Angeles. It is run by the Hammer Museum."
+    "text": "WeChat Chatbot"
   },
   {
-    "objectID": "Places/Planetarium.html",
-    "href": "Places/Planetarium.html",
+    "objectID": "Projects/tradebot.html",
+    "href": "Projects/tradebot.html",
     "title": "UCLA Planetarium",
     "section": "",
-    "text": "UCLA planetarium\n\n\nThe UCLA Planetarium finished construction in 1957 as part of the Mathematical Sciences Building, and is operated by the UCLA Department of Physics and Astronomy. Over its lifetime, the 24-foot diameter dome has housed three different star projectors (see below). With seating for 49 people, the UCLA Planetarium is a unique and intimate setting for visitors to learn about the universe. The facility offers shows to introductory astronomy classes, the Los Angeles community, and educational groups. Shows are presented primarily by UCLA Astronomy graduate students."
+    "text": "trade bot\n\n\nThe UCLA Planetarium finished construction in 1957 as part of the Mathematical Sciences Building, and is operated by the UCLA Department of Physics and Astronomy. Over its lifetime, the 24-foot diameter dome has housed three different star projectors (see below). With seating for 49 people, the UCLA Planetarium is a unique and intimate setting for visitors to learn about the universe. The facility offers shows to introductory astronomy classes, the Los Angeles community, and educational groups. Shows are presented primarily by UCLA Astronomy graduate students."
+  },
+  {
+    "objectID": "Projects/sqlmemo.html",
+    "href": "Projects/sqlmemo.html",
+    "title": "Personal Memo System – SQL, React & Python",
+    "section": "",
+    "text": "A full-stack personal memo system leveraging MySQL, Express.js, React, and Python for structured data storage, automation, and analytics.\nThe Personal Memo System is designed to help users efficiently store, manage, and analyze structured personal data, such as financial records, health metrics, and goal tracking. By integrating SQL for data storage, Express.js for API management, React for a user-friendly interface, and Python for automation and analytics, this project serves as a comprehensive digital organization tool.\n\nPurpose:\nProvide a secure and structured memo management system for various personal data. Enable automated data backups and trend analysis for financial and health tracking. Offer an intuitive React-based frontend for easy data entry and visualization. Showcase full-stack development skills with SQL, API development, and Python automation.\n\n\nKey Features:\n✅ MySQL Database – Secure storage with relational data management.\n✅ Express.js API – RESTful backend for seamless CRUD operations.\n✅ React Frontend – Interactive UI for managing memos and visualizing trends.\n✅ Python Automation – Scheduled database backups and analytical reports.\n✅ Data Analysis – Uses Pandas, Matplotlib, and Seaborn to provide insights.\nThe project is deployed on a Virtual Machine and integrates authentication, category-based organization, and an API-driven backend for structured data management.\n🔗 GitHub Repository: [Insert your GitHub link here]\n🚀 Tech Stack: MySQL, Express.js, React, Node.js, Python, Flask, Pandas, Tailwind CSS, Chart.js\nThis project is a practical learning experience, combining database management, backend development, frontend UI, automation, and data analytics into a single, full-stack system."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Zhiyuan Zhou",
     "section": "",
-    "text": "Hi, I’m Zhiyuan Zhou, a fourth year undergrad at UCLA studying economics and statistics."
+    "text": "Hi there! I’m Zhiyuan Zhou, an economics and data science enthusiast with a passion for turning complex data into actionable insights. I recently graduated from UCLA with degrees in Economics and Statistics & Data Science, where I honed my skills in data analysis, modeling, and sustainable strategy development.\nWhen I’m not crunching numbers or building models, you’ll find me exploring nature on a hike, capturing moments through my camera lens, or experimenting with new recipes in the kitchen. I’m also a proud cat lover and enjoy spending time with my furry companion MerMer🐾.\nI’m always eager to connect, collaborate, and learn, so feel free to reach out—whether it’s about data, photography, or the best way to cook a perfect stir-fry! 😊"
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Zhiyuan Zhou",
     "section": "",
-    "text": "Hi, I’m Zhiyuan Zhou, a fourth year undergrad at UCLA studying economics and statistics."
+    "text": "Hi there! I’m Zhiyuan Zhou, an economics and data science enthusiast with a passion for turning complex data into actionable insights. I recently graduated from UCLA with degrees in Economics and Statistics & Data Science, where I honed my skills in data analysis, modeling, and sustainable strategy development.\nWhen I’m not crunching numbers or building models, you’ll find me exploring nature on a hike, capturing moments through my camera lens, or experimenting with new recipes in the kitchen. I’m also a proud cat lover and enjoy spending time with my furry companion MerMer🐾.\nI’m always eager to connect, collaborate, and learn, so feel free to reach out—whether it’s about data, photography, or the best way to cook a perfect stir-fry! 😊"
+  },
+  {
+    "objectID": "Projects/sqlmemo.html#purpose",
+    "href": "Projects/sqlmemo.html#purpose",
+    "title": "Personal Memo System – SQL, React & Python",
+    "section": "Purpose:",
+    "text": "Purpose:\nProvide a secure and structured memo management system for various personal data. Enable automated data backups and trend analysis for financial and health tracking. Offer an intuitive React-based frontend for easy data entry and visualization. Showcase full-stack development skills with SQL, API development, and Python automation. Key Features:\n\n✅ MySQL Database – Secure storage with relational data management.\n\n\n✅ Express.js API – RESTful backend for seamless CRUD operations.\n\n\n✅ React Frontend – Interactive UI for managing memos and visualizing trends.\n\n\n✅ Python Automation – Scheduled database backups and analytical reports.\n\n\n✅ Data Analysis – Uses Pandas, Matplotlib, and Seaborn to provide insights.\n\nThe project is deployed on a Virtual Machine and integrates authentication, category-based organization, and an API-driven backend for structured data management.\n🔗 GitHub Repository: [Insert your GitHub link here]\n🚀 Tech Stack: MySQL, Express.js, React, Node.js, Python, Flask, Pandas, Tailwind CSS, Chart.js\nThis project is a practical learning experience, combining database management, backend development, frontend UI, automation, and data analytics into a single, full-stack system."
   }
 ]
