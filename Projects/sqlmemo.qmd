@@ -29,7 +29,7 @@ Showcase full-stack development skills with SQL, API development, and Python aut
 
 The project is deployed on a Virtual Machine and integrates authentication, category-based organization, and an API-driven backend for structured data management.
 
-🔗 GitHub Repository: [Insert your GitHub link here]
+🔗 GitHub Repository: [MemoTrack-SQL](https://github.com/ZY-ZHOU23/MemoTrack-SQL)
 
 🚀 Tech Stack: MySQL, Express.js, React, Node.js, Python, Flask, Pandas, Tailwind CSS, Chart.js
 

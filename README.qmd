@@ -1,5 +1,0 @@
----
-title: "My Project"
-format: gfm
-jupyter: python3
----

@@ -4,28 +4,28 @@
     "href": "about.html",
     "title": "Projects",
     "section": "",
-    "text": "Franklin D. Murphy Sculpture Garden\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal Memo System – SQL, React & Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Planetarium\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Personal Memo System – SQL, React & Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrade Bot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeChat Chat Bot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects/chatbot.html",
     "href": "Projects/chatbot.html",
-    "title": "Franklin D. Murphy Sculpture Garden",
+    "title": "WeChat Chat Bot",
     "section": "",
-    "text": "WeChat Chatbot"
+    "text": "A Python-based chatbot for WeChat, integrating OpenAI’s API for AI-powered conversations and a memo system for automated reminders.\nThe WeChat Chatbot with Memo System is designed to enhance WeChat interactions by providing AI-driven conversational responses while allowing users to set reminders naturally. Built with Python, it leverages wxauto for WeChat automation, OpenAI’s API for intelligent responses, and dateparser for smart date recognition. This project showcases skills in chatbot development, automation, and NLP integration.\n\nPurpose:\n\nAutomate conversational responses using AI.\nEnable users to create reminders seamlessly within chats.\nManage scheduled reminders with a background process.\nDemonstrate Python-based automation and LLM API integration.\n\n\n\nKey Features:\n✅ OpenAI Integration: AI-driven responses with conversation history management.\n✅ WeChat Automation: Auto-retrieves and processes messages using wxauto.\n✅ Smart Memo System: Detects reminders in messages and schedules alerts.\n✅ Background Reminder Service: Threaded reminder management for timely notifications.\n✅ Natural Language Processing: Uses dateparser to extract reminder times from user input.\nThe project runs as a real-time AI assistant for WeChat, improving communication efficiency with AI-powered automation.\n🔗 GitHub Repository: ChatBot_WeChat\n🚀 Tech Stack: Python, OpenAI API, wxauto, dateparser, threading, logging\nThis project is a hands-on practice in AI-driven automation, chatbot development, and NLP-enhanced user interactions."
   },
   {
     "objectID": "Projects/tradebot.html",
     "href": "Projects/tradebot.html",
-    "title": "UCLA Planetarium",
+    "title": "Trade Bot",
     "section": "",
-    "text": "trade bot\n\n\nThe UCLA Planetarium finished construction in 1957 as part of the Mathematical Sciences Building, and is operated by the UCLA Department of Physics and Astronomy. Over its lifetime, the 24-foot diameter dome has housed three different star projectors (see below). With seating for 49 people, the UCLA Planetarium is a unique and intimate setting for visitors to learn about the universe. The facility offers shows to introductory astronomy classes, the Los Angeles community, and educational groups. Shows are presented primarily by UCLA Astronomy graduate students."
+    "text": "work in progress"
   },
   {
     "objectID": "Projects/sqlmemo.html",
     "href": "Projects/sqlmemo.html",
     "title": "Personal Memo System – SQL, React & Python",
     "section": "",
-    "text": "A full-stack personal memo system leveraging MySQL, Express.js, React, and Python for structured data storage, automation, and analytics.\nThe Personal Memo System is designed to help users efficiently store, manage, and analyze structured personal data, such as financial records, health metrics, and goal tracking. By integrating SQL for data storage, Express.js for API management, React for a user-friendly interface, and Python for automation and analytics, this project serves as a comprehensive digital organization tool.\n\nPurpose:\nProvide a secure and structured memo management system for various personal data. Enable automated data backups and trend analysis for financial and health tracking. Offer an intuitive React-based frontend for easy data entry and visualization. Showcase full-stack development skills with SQL, API development, and Python automation.\n\n\nKey Features:\n✅ MySQL Database – Secure storage with relational data management.\n✅ Express.js API – RESTful backend for seamless CRUD operations.\n✅ React Frontend – Interactive UI for managing memos and visualizing trends.\n✅ Python Automation – Scheduled database backups and analytical reports.\n✅ Data Analysis – Uses Pandas, Matplotlib, and Seaborn to provide insights.\nThe project is deployed on a Virtual Machine and integrates authentication, category-based organization, and an API-driven backend for structured data management.\n🔗 GitHub Repository: [Insert your GitHub link here]\n🚀 Tech Stack: MySQL, Express.js, React, Node.js, Python, Flask, Pandas, Tailwind CSS, Chart.js\nThis project is a practical learning experience, combining database management, backend development, frontend UI, automation, and data analytics into a single, full-stack system."
+    "text": "A full-stack personal memo system leveraging MySQL, Express.js, React, and Python for structured data storage, automation, and analytics.\nThe Personal Memo System is designed to help users efficiently store, manage, and analyze structured personal data, such as financial records, health metrics, and goal tracking. By integrating SQL for data storage, Express.js for API management, React for a user-friendly interface, and Python for automation and analytics, this project serves as a comprehensive digital organization tool.\n\nPurpose:\nProvide a secure and structured memo management system for various personal data. Enable automated data backups and trend analysis for financial and health tracking. Offer an intuitive React-based frontend for easy data entry and visualization. Showcase full-stack development skills with SQL, API development, and Python automation.\n\n\nKey Features:\n✅ MySQL Database – Secure storage with relational data management.\n✅ Express.js API – RESTful backend for seamless CRUD operations.\n✅ React Frontend – Interactive UI for managing memos and visualizing trends.\n✅ Python Automation – Scheduled database backups and analytical reports.\n✅ Data Analysis – Uses Pandas, Matplotlib, and Seaborn to provide insights.\nThe project is deployed on a Virtual Machine and integrates authentication, category-based organization, and an API-driven backend for structured data management.\n🔗 GitHub Repository: MemoTrack-SQL\n🚀 Tech Stack: MySQL, Express.js, React, Node.js, Python, Flask, Pandas, Tailwind CSS, Chart.js\nThis project is a practical learning experience, combining database management, backend development, frontend UI, automation, and data analytics into a single, full-stack system."
   },
   {
     "objectID": "index.html",

@@ -2,9 +2,9 @@
   {
     "listing": "/about.html",
     "items": [
-      "/Projects/chatbot.html",
       "/Projects/sqlmemo.html",
-      "/Projects/tradebot.html"
+      "/Projects/tradebot.html",
+      "/Projects/chatbot.html"
     ]
   }
 ]
