@@ -24,7 +24,6 @@ The **WeChat Chatbot** enhances WeChat interactions by providing AI-driven conve
 
 The chatbot functions as an **AI assistant for WeChat**, streamlining communication with automated, intelligent responses. It is designed to work with **PC WeChat version 3.9.11.17**.  
 
-
 🔗 GitHub Repository: [ChatBot_WeChat](https://github.com/ZY-ZHOU23/ChatBot_WeChat)
 
 🚀 Tech Stack: Python, OpenAI API, wxauto, dateparser, threading, logging
