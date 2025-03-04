@@ -6,27 +6,24 @@ image: "../Images/chatbot.jpg"
 ![](../Images/chatbot.jpg)
 A Python-based chatbot for WeChat, integrating OpenAI’s API for AI-powered conversations and a memo system for automated reminders.
 
-The WeChat Chatbot with Memo System is designed to enhance WeChat interactions by providing AI-driven conversational responses while allowing users to set reminders naturally. Built with Python, it leverages wxauto for WeChat automation, OpenAI’s API for intelligent responses, and dateparser for smart date recognition. This project showcases skills in chatbot development, automation, and NLP integration.
+The **WeChat Chatbot** enhances WeChat interactions by providing AI-driven conversational responses in real time. Built with Python, it leverages **wxauto** for WeChat automation and OpenAI’s API for intelligent, context-aware replies. This project showcases expertise in **chatbot development, automation, and large language model (LLM) integration**.  
 
-### Purpose:
-- Automate conversational responses using AI.
-- Enable users to create reminders seamlessly within chats.
-- Manage scheduled reminders with a background process.
-- Demonstrate Python-based automation and LLM API integration.
+### Purpose  
+- Automate conversational responses using AI.  
+- Maintain context for more relevant and coherent interactions.  
+- Demonstrate Python-based WeChat automation and LLM API integration.  
 
-### Key Features:
+### Key Features  
+✅ **OpenAI Integration** – AI-driven responses with conversation history management.  
 
-✅ OpenAI Integration: AI-driven responses with conversation history management.
+✅ **WeChat Automation** – Auto-retrieves and processes messages using wxauto.  
 
-✅ WeChat Automation: Auto-retrieves and processes messages using wxauto.
+✅ **Context-Aware Conversations** – Builds conversation context dynamically for better responses.  
 
-✅ Smart Memo System: Detects reminders in messages and schedules alerts.
+✅ **Background Processing** – Runs a background process for real-time message handling.  
 
-✅ Background Reminder Service: Threaded reminder management for timely notifications.
+The chatbot functions as an **AI assistant for WeChat**, streamlining communication with automated, intelligent responses. It is designed to work with **PC WeChat version 3.9.11.17**.  
 
-✅ Natural Language Processing: Uses dateparser to extract reminder times from user input.
-
-The project runs as a real-time AI assistant for WeChat, improving communication efficiency with AI-powered automation.
 
 🔗 GitHub Repository: [ChatBot_WeChat](https://github.com/ZY-ZHOU23/ChatBot_WeChat)
 

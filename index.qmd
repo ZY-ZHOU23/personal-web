@@ -26,6 +26,7 @@ I’m always eager to connect, collaborate, and learn, so feel free to reach out
 
 ## MerMer~
 
+<!-- 
 ```{=html}
 
 <div class="carousel-container">
@@ -73,6 +74,6 @@ I’m always eager to connect, collaborate, and learn, so feel free to reach out
 
 
 ```
-
+-->
 
 :::
