@@ -4,7 +4,7 @@ image: "../Images/chatbot.jpg"
 ---
 
 ![](../Images/chatbot.jpg)
-A Python-based chatbot for WeChat, integrating OpenAI’s API for AI-powered conversations and a memo system for automated reminders.
+A Python-based chatbot for WeChat, integrating OpenAI’s API for AI-powered conversations.
 
 The **WeChat Chatbot** enhances WeChat interactions by providing AI-driven conversational responses in real time. Built with Python, it leverages **wxauto** for WeChat automation and OpenAI’s API for intelligent, context-aware replies. This project showcases expertise in **chatbot development, automation, and large language model (LLM) integration**.  
 
