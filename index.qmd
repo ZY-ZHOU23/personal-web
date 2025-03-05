@@ -22,7 +22,7 @@ css: styles.css
 
 ## Bio
 
-Hi there! I’m Zhiyuan Zhou, an economics and data science enthusiast with a passion for turning complex data into actionable insights. I recently graduated from UCLA with degrees in Economics and Statistics & Data Science, where I honed my skills in data analysis, modeling, and sustainable strategy development.
+Hi there! I’m Zhiyuan Zhou, an economics and data science enthusiast with a passion for turning complex data into actionable insights. I’m graduating from UCLA in June 2025 with degrees in Economics and Statistics & Data Science, where I honed my skills in data analysis, statistical modeling, and quantitative decision-making.
 
 When I’m not crunching numbers or building models, you’ll find me exploring nature on a hike, capturing moments through my camera lens, or experimenting with new recipes in the kitchen. I’m also a proud cat lover and enjoy spending time with my furry companion MerMer🐾.
 
