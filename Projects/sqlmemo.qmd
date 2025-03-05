@@ -5,6 +5,8 @@ image: "../Images/sqlmemo.jpg"
 
 ![](../Images/sqlmemo.jpg)
 
+work in progress
+
 A full-stack personal memo system leveraging MySQL, Express.js, React, and Python for structured data storage, automation, and analytics.
 
 The Personal Memo System is designed to help users efficiently store, manage, and analyze structured personal data, such as financial records, health metrics, and goal tracking. By integrating SQL for data storage, Express.js for API management, React for a user-friendly interface, and Python for automation and analytics, this project serves as a comprehensive digital organization tool.
