@@ -26,7 +26,7 @@ The chatbot functions as an **AI assistant for WeChat**, streamlining communicat
 
 🔗 GitHub Repository: [ChatBot_WeChat](https://github.com/ZY-ZHOU23/ChatBot_WeChat)
 
-🚀 Tech Stack: Python, OpenAI API, wxauto, dateparser, threading, logging
+🚀 Tech Stack: Python, OpenAI API, wxauto, threading, logging
 
 This project is a hands-on practice in AI-driven automation, chatbot development, and NLP-enhanced user interactions.
 
