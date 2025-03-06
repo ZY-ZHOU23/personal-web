@@ -2,6 +2,7 @@
   {
     "listing": "/about.html",
     "items": [
+      "/Projects/excel-ledger.html",
       "/Projects/sqlmemo.html",
       "/Projects/tradebot.html",
       "/Projects/chatbot.html"
