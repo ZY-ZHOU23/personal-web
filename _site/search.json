@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Recipes/Stir-fried Spicy Beef.html",
+    "href": "Recipes/Stir-fried Spicy Beef.html",
+    "title": "Stir-fried Spicy Beef",
+    "section": "",
+    "text": "A classic Hunan-style stir-fry dish, this spicy beef stir-fry combines tender slices of beef with chili peppers and aromatics for a flavorful kick. This dish is best served with steamed rice.\n\nIngredients | 用料\n\n\n\nIngredient\n用料\nAmount\n\n\n\n\nYellow beef\n黄牛肉\n250g\n\n\nGinger\n姜\n1 piece\n\n\nGarlic\n蒜\nHalf bulb\n\n\nOyster sauce\n蚝油\n2 tbsp\n\n\nWhite pepper powder\n白胡椒粉\nTo taste\n\n\nCanola oil\n菜籽油\nAs needed\n\n\nSmall chili peppers\n小米辣\n4 pieces\n\n\nPickled peppers\n泡椒\n1 handful\n\n\nCilantro\n香菜\nA handful\n\n\n\n\n\nSteps | 步骤\n\nSlice the beef against the grain into thin pieces. Marinate with 3 tbsp salad oil, 2 tbsp oyster sauce, a pinch of white pepper powder, and a little starch. Mix well, then add 1 more tbsp oil to lock in moisture.\nMince the ginger, chop the small chili peppers and pickled peppers into segments, and crush and chop the garlic.\nHeat a pan until smoking hot, then add oil. Stir-fry the marinated beef quickly, adding a pinch of salt. Once the beef changes color, remove it from the pan immediately to keep it tender.\nChop the cilantro into 3–4 cm segments.\nIn the remaining oil, add the ginger, garlic, and chili peppers. Stir-fry until fragrant, then add a dash of soy sauce.\nReturn the beef to the pan, toss everything together quickly, then add the cilantro. Stir briefly and serve immediately."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Projects",
@@ -19,6 +26,13 @@
     "title": "Personal Memo System – SQL, React & Python",
     "section": "",
     "text": "work in progress\nA full-stack personal memo system leveraging MySQL, Express.js, React, and Python for structured data storage, automation, and analytics.\nThe Personal Memo System is designed to help users efficiently store, manage, and analyze structured personal data, such as financial records, health metrics, and goal tracking. By integrating SQL for data storage, Express.js for API management, React for a user-friendly interface, and Python for automation and analytics, this project serves as a comprehensive digital organization tool.\n\nPurpose:\nProvide a secure and structured memo management system for various personal data. Enable automated data backups and trend analysis for financial and health tracking. Offer an intuitive React-based frontend for easy data entry and visualization. Showcase full-stack development skills with SQL, API development, and Python automation.\n\n\nKey Features:\n✅ MySQL Database – Secure storage with relational data management.\n✅ Express.js API – RESTful backend for seamless CRUD operations.\n✅ React Frontend – Interactive UI for managing memos and visualizing trends.\n✅ Python Automation – Scheduled database backups and analytical reports.\n✅ Data Analysis – Uses Pandas, Matplotlib, and Seaborn to provide insights.\nThe project is deployed on a Virtual Machine and integrates authentication, category-based organization, and an API-driven backend for structured data management.\n🔗 GitHub Repository: MemoTrack-SQL\n🚀 Tech Stack: MySQL, Express.js, React, Node.js, Python, Flask, Pandas, Tailwind CSS, Chart.js\nThis project is a practical learning experience, combining database management, backend development, frontend UI, automation, and data analytics into a single, full-stack system."
+  },
+  {
+    "objectID": "recipes.html",
+    "href": "recipes.html",
+    "title": "Recipes",
+    "section": "",
+    "text": "Silver Ear Lotus Seed Soup\n\n\n\n\n\n\nSoup\n\n\nSweet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStir-fried Spicy Beef\n\n\n\n\n\n\nBeef\n\n\nSpicy\n\n\nStir-fry\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects/tradebot.html",
@@ -54,5 +68,12 @@
     "title": "Zhiyuan Zhou",
     "section": "",
     "text": "Previous\n    \n    \n      \n      Next"
+  },
+  {
+    "objectID": "Recipes/silver ear lotus seed soup.html",
+    "href": "Recipes/silver ear lotus seed soup.html",
+    "title": "Silver Ear Lotus Seed Soup",
+    "section": "",
+    "text": "This traditional Chinese dessert is known for its nourishing and skin-beautifying properties. Silver ear fungus is rich in collagen-like polysaccharides, which help with hydration and skin health. It is especially popular in the summer for its cooling effect.\n\nIngredients | 用料\n\n\n\nIngredient\n用料\nAmount\n\n\n\n\nSilver ear fungus\n银耳\nHalf piece\n\n\nLotus seeds\n莲子\n20 pieces\n\n\nRock sugar\n冰糖\nTo taste\n\n\nWater\n水\nSufficient to cover the ingredients\n\n\n\n\n\nSteps | 步骤\n\nSoak the silver ear fungus and lotus seeds in water for 1–2 hours until softened.\nTear the silver ear fungus into small pieces.\nWash the soaked ingredients thoroughly and place them into a rice cooker.\nAdd water until the ingredients are fully submerged.\nAdd rock sugar according to taste preference.\nUse the “Soup” setting on the rice cooker and cook for at least 2 hours."
   }
 ]

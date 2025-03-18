@@ -7,5 +7,12 @@
       "/Projects/tradebot.html",
       "/Projects/chatbot.html"
     ]
+  },
+  {
+    "listing": "/recipes.html",
+    "items": [
+      "/Recipes/silver ear lotus seed soup.html",
+      "/Recipes/Stir-fried Spicy Beef.html"
+    ]
   }
 ]

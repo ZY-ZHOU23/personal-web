@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Excel VBA Sales Management Tool – Zhiyuan Zhou</title>
+<title>Recipes – Zhiyuan Zhou</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,19 +68,77 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../styles.css">
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Zhiyuan Zhou</span>
     </a>
   </div>
@@ -89,15 +149,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../recipes.html"> 
+    <a class="nav-link active" href="./recipes.html" aria-current="page"> 
 <span class="menu-text">Recipes</span></a>
   </li>  
 </ul>
@@ -111,13 +171,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QmVlZg==">Beef <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U291cA==">Soup <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3BpY3k=">Spicy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3Rpci1mcnk=">Stir-fry <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3dlZXQ=">Sweet <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Excel VBA Sales Management Tool</h1>
+<h1 class="title">Recipes</h1>
 </div>
 
 
@@ -134,39 +196,74 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="../Images/excel-ledger.jpg" class="img-fluid"></p>
-<p>A simple, automated Excel-based solution for effortless sales tracking, data entry, and visualization</p>
-<section id="the-story-behind-this-project" class="level3">
-<h3 class="anchored" data-anchor-id="the-story-behind-this-project">The Story Behind This Project</h3>
-<p>This project started as a way to help my mom. She runs a small online store, managing every transaction manually in Excel. Since she’s not very familiar with technology, she spends hours inputting and organizing sales data, which is time-consuming and exhausting. I wanted to create something that would simplify her work, reduce the manual effort, and help her focus on what matters—growing her business and taking care of her health.</p>
-<p>That’s how the Excel VBA Sales Management Tool was born. This tool automates data entry, ensures accuracy, and provides instant visual insights, making sales management faster, easier, and more efficient.</p>
-</section>
-<section id="key-benefits" class="level3">
-<h3 class="anchored" data-anchor-id="key-benefits">Key Benefits</h3>
-<ul>
-<li><strong>Efficient Sales Data Management</strong> – Simplifies record-keeping with structured data entry and validation.<br>
-</li>
-<li><strong>Dynamic Customization</strong> – Easily modify fields and parameters to adapt to business needs.<br>
-</li>
-<li><strong>Automated Visual Insights</strong> – Instantly generate interactive charts to monitor sales trends.<br>
-</li>
-<li><strong>Seamless Excel Integration</strong> – Built with VBA, leveraging Excel’s capabilities for smooth automation.</li>
-</ul>
-</section>
-<section id="features" class="level3">
-<h3 class="anchored" data-anchor-id="features">Features</h3>
-<p>✅ <strong>Dynamic Column Management</strong> – Add or modify data fields directly from the UI.<br>
-✅ <strong>Real-time Data Validation</strong> – Prevents errors by enforcing correct input formats.<br>
-✅ <strong>Batch Data Entry</strong> – Speed up workflows with multi-entry support.<br>
-✅ <strong>Automated Chart Generation</strong> – Instantly create bar charts, line graphs, and more.<br>
-✅ <strong>User-Friendly Interface</strong> – Designed for ease of use with minimal manual effort.</p>
-<p>🔗 GitHub Repository: <a href="https://github.com/ZY-ZHOU23/excel-ledger">excel-ledger</a></p>
-<p>🚀 Tech Stack: Excel, VBA</p>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="U291cCUyQ1N3ZWV0" data-listing-file-modified-sort="1742258605250" data-listing-reading-time-sort="1" data-listing-word-count-sort="147">
+<div class="thumbnail">
+<p><a href="./Recipes/silver ear lotus seed soup.html" class="no-external"></a></p><a href="./Recipes/silver ear lotus seed soup.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./Recipes/silver ear lotus seed soup.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./Recipes/silver ear lotus seed soup.html" class="no-external">Silver Ear Lotus Seed Soup</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./Recipes/silver ear lotus seed soup.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('U291cA=='); return false;">
+Soup
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3dlZXQ='); return false;">
+Sweet
+</div>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./Recipes/silver ear lotus seed soup.html" class="no-external"></a></p><a href="./Recipes/silver ear lotus seed soup.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="QmVlZiUyQ1NwaWN5JTJDU3Rpci1mcnk=" data-listing-file-modified-sort="1742258628322" data-listing-reading-time-sort="2" data-listing-word-count-sort="251">
+<div class="thumbnail">
+<p><a href="./Recipes/Stir-fried Spicy Beef.html" class="no-external"></a></p><a href="./Recipes/Stir-fried Spicy Beef.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./Recipes/Stir-fried Spicy Beef.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./Recipes/Stir-fried Spicy Beef.html" class="no-external">Stir-fried Spicy Beef</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./Recipes/Stir-fried Spicy Beef.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QmVlZg=='); return false;">
+Beef
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3BpY3k='); return false;">
+Spicy
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3Rpci1mcnk='); return false;">
+Stir-fry
+</div>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./Recipes/Stir-fried Spicy Beef.html" class="no-external"></a></p><a href="./Recipes/Stir-fried Spicy Beef.html" class="no-external">
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

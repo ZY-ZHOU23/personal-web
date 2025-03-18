@@ -12,6 +12,8 @@ website:
         href: index.qmd
       - text: "Projects"
         href: about.qmd
+      - text: "Recipes"
+        href: recipes.qmd
   page-footer:
     left: "© Copyright 2025 Zhiyuan Zhou."
 format:

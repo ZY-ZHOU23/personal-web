@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://zhiyuanzhou.netlify.app/Recipes/Stir-fried Spicy Beef.html</loc>
+    <lastmod>2025-03-18T00:43:48.322Z</lastmod>
+  </url>
+  <url>
     <loc>https://zhiyuanzhou.netlify.app/about.html</loc>
     <lastmod>2025-03-02T10:40:14.288Z</lastmod>
   </url>
@@ -13,6 +17,10 @@
     <lastmod>2025-03-05T19:11:50.401Z</lastmod>
   </url>
   <url>
+    <loc>https://zhiyuanzhou.netlify.app/recipes.html</loc>
+    <lastmod>2025-03-18T00:15:31.018Z</lastmod>
+  </url>
+  <url>
     <loc>https://zhiyuanzhou.netlify.app/Projects/tradebot.html</loc>
     <lastmod>2025-03-02T22:16:09.252Z</lastmod>
   </url>
@@ -23,5 +31,9 @@
   <url>
     <loc>https://zhiyuanzhou.netlify.app/index.html</loc>
     <lastmod>2025-03-05T05:53:04.493Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zhiyuanzhou.netlify.app/Recipes/silver ear lotus seed soup.html</loc>
+    <lastmod>2025-03-18T00:43:25.250Z</lastmod>
   </url>
 </urlset>
