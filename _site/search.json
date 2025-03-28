@@ -2,16 +2,16 @@
   {
     "objectID": "Recipes/Stir-fried Spicy Beef.html",
     "href": "Recipes/Stir-fried Spicy Beef.html",
-    "title": "Stir-fried Spicy Beef",
+    "title": "Stir-fried Spicy Beef  小炒牛肉",
     "section": "",
-    "text": "A classic Hunan-style stir-fry dish, this spicy beef stir-fry combines tender slices of beef with chili peppers and aromatics for a flavorful kick. This dish is best served with steamed rice.\n\nIngredients | 用料\n\n\n\nIngredient\n用料\nAmount\n\n\n\n\nYellow beef\n黄牛肉\n250g\n\n\nGinger\n姜\n1 piece\n\n\nGarlic\n蒜\nHalf bulb\n\n\nOyster sauce\n蚝油\n2 tbsp\n\n\nWhite pepper powder\n白胡椒粉\nTo taste\n\n\nCanola oil\n菜籽油\nAs needed\n\n\nSmall chili peppers\n小米辣\n4 pieces\n\n\nPickled peppers\n泡椒\n1 handful\n\n\nCilantro\n香菜\nA handful\n\n\n\n\n\nSteps | 步骤\n\nSlice the beef against the grain into thin pieces. Marinate with 3 tbsp salad oil, 2 tbsp oyster sauce, a pinch of white pepper powder, and a little starch. Mix well, then add 1 more tbsp oil to lock in moisture.\nMince the ginger, chop the small chili peppers and pickled peppers into segments, and crush and chop the garlic.\nHeat a pan until smoking hot, then add oil. Stir-fry the marinated beef quickly, adding a pinch of salt. Once the beef changes color, remove it from the pan immediately to keep it tender.\nChop the cilantro into 3–4 cm segments.\nIn the remaining oil, add the ginger, garlic, and chili peppers. Stir-fry until fragrant, then add a dash of soy sauce.\nReturn the beef to the pan, toss everything together quickly, then add the cilantro. Stir briefly and serve immediately."
+    "text": "🥣 Ingredients\n\n\n\nIngredient\n用料\nAmount\n\n\n\n\nYellow beef\n黄牛肉\n250g\n\n\nGinger\n姜\n1 piece\n\n\nGarlic\n蒜\nHalf bulb\n\n\nOyster sauce\n蚝油\n2 tbsp\n\n\nWhite pepper powder\n白胡椒粉\nTo taste\n\n\nCanola oil\n菜籽油\nAs needed\n\n\nSmall chili peppers\n小米辣\n4 pieces\n\n\nPickled peppers\n泡椒\n1 handful\n\n\nCilantro\n香菜\nA handful\n\n\n\n\n\n🍴 Steps\n\nSlice the beef against the grain into thin pieces. Marinate with 3 tbsp salad oil, 2 tbsp oyster sauce, a pinch of white pepper powder, and a little starch. Mix well, then add 1 more tbsp oil to lock in moisture.\nMince the ginger, chop the small chili peppers and pickled peppers into segments, and crush and chop the garlic.\nHeat a pan until smoking hot, then add oil. Stir-fry the marinated beef quickly, adding a pinch of salt. Once the beef changes color, remove it from the pan immediately to keep it tender.\nChop the cilantro into 3–4 cm segments.\nIn the remaining oil, add the ginger, garlic, and chili peppers. Stir-fry until fragrant, then add a dash of soy sauce.\nReturn the beef to the pan, toss everything together quickly, then add the cilantro. Stir briefly and serve immediately."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Projects",
     "section": "",
-    "text": "Excel VBA Sales Management Tool\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal Memo System – SQL, React & Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrade Bot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeChat Chat Bot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Excel VBA Sales Management Tool\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal Memo System – SQL, React & Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStock Forecasting: A Machine Learning Exploration\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrade Bot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeChat Chat Bot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects/excel-ledger.html",
@@ -21,18 +21,11 @@
     "text": "A simple, automated Excel-based solution for effortless sales tracking, data entry, and visualization\n\nThe Story Behind This Project\nThis project started as a way to help my mom. She runs a small online store, managing every transaction manually in Excel. Since she’s not very familiar with technology, she spends hours inputting and organizing sales data, which is time-consuming and exhausting. I wanted to create something that would simplify her work, reduce the manual effort, and help her focus on what matters—growing her business and taking care of her health.\nThat’s how the Excel VBA Sales Management Tool was born. This tool automates data entry, ensures accuracy, and provides instant visual insights, making sales management faster, easier, and more efficient.\n\n\nKey Benefits\n\nEfficient Sales Data Management – Simplifies record-keeping with structured data entry and validation.\n\nDynamic Customization – Easily modify fields and parameters to adapt to business needs.\n\nAutomated Visual Insights – Instantly generate interactive charts to monitor sales trends.\n\nSeamless Excel Integration – Built with VBA, leveraging Excel’s capabilities for smooth automation.\n\n\n\nFeatures\n✅ Dynamic Column Management – Add or modify data fields directly from the UI.\n✅ Real-time Data Validation – Prevents errors by enforcing correct input formats.\n✅ Batch Data Entry – Speed up workflows with multi-entry support.\n✅ Automated Chart Generation – Instantly create bar charts, line graphs, and more.\n✅ User-Friendly Interface – Designed for ease of use with minimal manual effort.\n🔗 GitHub Repository: excel-ledger\n🚀 Tech Stack: Excel, VBA"
   },
   {
-    "objectID": "Projects/sqlmemo.html",
-    "href": "Projects/sqlmemo.html",
-    "title": "Personal Memo System – SQL, React & Python",
+    "objectID": "Projects/stock-time-series.html",
+    "href": "Projects/stock-time-series.html",
+    "title": "Stock Forecasting: A Machine Learning Exploration",
     "section": "",
-    "text": "work in progress\nA full-stack personal memo system leveraging MySQL, Express.js, React, and Python for structured data storage, automation, and analytics.\nThe Personal Memo System is designed to help users efficiently store, manage, and analyze structured personal data, such as financial records, health metrics, and goal tracking. By integrating SQL for data storage, Express.js for API management, React for a user-friendly interface, and Python for automation and analytics, this project serves as a comprehensive digital organization tool.\n\nPurpose:\nProvide a secure and structured memo management system for various personal data. Enable automated data backups and trend analysis for financial and health tracking. Offer an intuitive React-based frontend for easy data entry and visualization. Showcase full-stack development skills with SQL, API development, and Python automation.\n\n\nKey Features:\n✅ MySQL Database – Secure storage with relational data management.\n✅ Express.js API – RESTful backend for seamless CRUD operations.\n✅ React Frontend – Interactive UI for managing memos and visualizing trends.\n✅ Python Automation – Scheduled database backups and analytical reports.\n✅ Data Analysis – Uses Pandas, Matplotlib, and Seaborn to provide insights.\nThe project is deployed on a Virtual Machine and integrates authentication, category-based organization, and an API-driven backend for structured data management.\n🔗 GitHub Repository: MemoTrack-SQL\n🚀 Tech Stack: MySQL, Express.js, React, Node.js, Python, Flask, Pandas, Tailwind CSS, Chart.js\nThis project is a practical learning experience, combining database management, backend development, frontend UI, automation, and data analytics into a single, full-stack system."
-  },
-  {
-    "objectID": "recipes.html",
-    "href": "recipes.html",
-    "title": "Recipes",
-    "section": "",
-    "text": "Silver Ear Lotus Seed Soup\n\n\n\n\n\n\nSoup\n\n\nSweet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStir-fried Spicy Beef\n\n\n\n\n\n\nBeef\n\n\nSpicy\n\n\nStir-fry\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This project focused on applying and comparing various machine learning models for stock price prediction to gain hands-on experience.\nThe Stock Forecasting project is a hands-on exploration of machine learning models applied to stock price prediction. Developed using R, it utilizes libraries such as quantmod, forecast, and tidyverse to facilitate data manipulation, visualization, and model implementation. This project emphasizes practical skill development in time series analysis, financial data processing, and predictive modeling, using a range of models.\n\nPurpose\n\nGain practical experience with various time series models.\nDevelop skills in analyzing and visualizing stock data trends.\nPractice evaluating the performance of different forecasting models.\nEnhance proficiency in R for machine learning applications.\n\n\n\nKey Features\n\n✅ Data Gathering – Automates stock data collection from Yahoo Finance using quantmod.\n✅ Feature Engineering – Calculates technical indicators like Bollinger Bands, MACD, and RSI.\n✅ Multiple Model Implementation - Includes ARIMAX, NNETAR, XGBoost, and GARCH models for forecasting.\n✅ Combined Model - Implements a combined model to potentially improve forecast accuracy.\n✅ Model Evaluation – Assesses model performance using metrics such as MAPE and MSE.\n✅ Comparative Analysis – Compares the performance of the different forecasting models to identify effective strategies.\n✅ Visualization – Generates plots to visualize stock prices, technical indicators, and model forecasts.\n\n🔗 GitHub Repository: [Link to your GitHub Repository] 🔗\n🚀 Tech Stack: R, tidyverse, lubridate, quantmod, tseries, forecast, tsibble, fable, fabletools, feasts, xgboost, caret, rugarch"
   },
   {
     "objectID": "Projects/tradebot.html",
@@ -40,6 +33,20 @@
     "title": "Trade Bot",
     "section": "",
     "text": "work in progress"
+  },
+  {
+    "objectID": "recipes.html",
+    "href": "recipes.html",
+    "title": "Recipes",
+    "section": "",
+    "text": "Bell pepper Pork  青椒肉丝\n\n\n\nStir-fry\n\n\nPork\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChocolate Chips Cookie  巧克力曲奇\n\n\n\nDessert\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurry  咖喱\n\n\n\nChicken\n\n\nBeef\n\n\nPork\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKale Salad  羽衣甘蓝沙拉\n\n\n\nVegetable\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMatcha Swiss Roll  抹茶瑞士卷\n\n\n\nDessert\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSilver Ear Lotus Seed Soup  银耳莲子羹\n\n\n\nSoup\n\n\nDessert\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStir-fried Spicy Beef  小炒牛肉\n\n\n\nBeef\n\n\nSpicy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTiramisu  提拉米苏\n\n\n\nDessert\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projects/sqlmemo.html",
+    "href": "Projects/sqlmemo.html",
+    "title": "Personal Memo System – SQL, React & Python",
+    "section": "",
+    "text": "work in progress\nA full-stack personal memo system leveraging MySQL, Express.js, React, and Python for structured data storage, automation, and analytics.\nThe Personal Memo System is designed to help users efficiently store, manage, and analyze structured personal data, such as financial records, health metrics, and goal tracking. By integrating SQL for data storage, Express.js for API management, React for a user-friendly interface, and Python for automation and analytics, this project serves as a comprehensive digital organization tool.\n\nPurpose:\nProvide a secure and structured memo management system for various personal data. Enable automated data backups and trend analysis for financial and health tracking. Offer an intuitive React-based frontend for easy data entry and visualization. Showcase full-stack development skills with SQL, API development, and Python automation.\n\n\nKey Features:\n✅ MySQL Database – Secure storage with relational data management.\n✅ Express.js API – RESTful backend for seamless CRUD operations.\n✅ React Frontend – Interactive UI for managing memos and visualizing trends.\n✅ Python Automation – Scheduled database backups and analytical reports.\n✅ Data Analysis – Uses Pandas, Matplotlib, and Seaborn to provide insights.\nThe project is deployed on a Virtual Machine and integrates authentication, category-based organization, and an API-driven backend for structured data management.\n🔗 GitHub Repository: MemoTrack-SQL\n🚀 Tech Stack: MySQL, Express.js, React, Node.js, Python, Flask, Pandas, Tailwind CSS, Chart.js\nThis project is a practical learning experience, combining database management, backend development, frontend UI, automation, and data analytics into a single, full-stack system."
   },
   {
     "objectID": "Projects/chatbot.html",
@@ -70,10 +77,10 @@
     "text": "Previous\n    \n    \n      \n      Next"
   },
   {
-    "objectID": "Recipes/silver ear lotus seed soup.html",
-    "href": "Recipes/silver ear lotus seed soup.html",
-    "title": "Silver Ear Lotus Seed Soup",
+    "objectID": "Recipes/silver-lotus-soup.html",
+    "href": "Recipes/silver-lotus-soup.html",
+    "title": "Silver Ear Lotus Seed Soup  银耳莲子羹",
     "section": "",
-    "text": "This traditional Chinese dessert is known for its nourishing and skin-beautifying properties. Silver ear fungus is rich in collagen-like polysaccharides, which help with hydration and skin health. It is especially popular in the summer for its cooling effect.\n\nIngredients | 用料\n\n\n\nIngredient\n用料\nAmount\n\n\n\n\nSilver ear fungus\n银耳\nHalf piece\n\n\nLotus seeds\n莲子\n20 pieces\n\n\nRock sugar\n冰糖\nTo taste\n\n\nWater\n水\nSufficient to cover the ingredients\n\n\n\n\n\nSteps | 步骤\n\nSoak the silver ear fungus and lotus seeds in water for 1–2 hours until softened.\nTear the silver ear fungus into small pieces.\nWash the soaked ingredients thoroughly and place them into a rice cooker.\nAdd water until the ingredients are fully submerged.\nAdd rock sugar according to taste preference.\nUse the “Soup” setting on the rice cooker and cook for at least 2 hours."
+    "text": "🥣 Ingredients\n\n\n\nIngredient\n用料\nAmount\n\n\n\n\nSilver ear fungus\n银耳\nHalf piece\n\n\nLotus seeds\n莲子\n20 pieces\n\n\nRock sugar\n冰糖\nTo taste\n\n\nWater\n水\nSufficient to cover the ingredients\n\n\n\n\n\n🍴 Steps\n\nSoak the silver ear fungus and lotus seeds in water for 1–2 hours until softened.\nTear the silver ear fungus into small pieces.\nWash the soaked ingredients thoroughly and place them into a rice cooker.\nAdd water until the ingredients are fully submerged.\nAdd rock sugar according to taste preference.\nUse the “Soup” setting on the rice cooker and cook for at least 2 hours."
   }
 ]

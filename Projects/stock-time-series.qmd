@@ -1,0 +1,34 @@
+---
+title: "Stock Forecasting: A Machine Learning Exploration"
+image: "../Images/sqlmemo.jpg"
+---
+
+![](../Images/sqlmemo.jpg)
+
+This project focused on applying and comparing various machine learning models for stock price prediction to gain hands-on experience.
+
+
+
+The **Stock Forecasting project** is a hands-on exploration of machine learning models applied to stock price prediction. Developed using R, it utilizes libraries such as `quantmod`, `forecast`, and `tidyverse` to facilitate data manipulation, visualization, and model implementation. This project emphasizes practical skill development in time series analysis, financial data processing, and predictive modeling, using a range of models.
+
+### Purpose
+
+* Gain practical experience with various time series models.
+* Develop skills in analyzing and visualizing stock data trends.
+* Practice evaluating the performance of different forecasting models.
+* Enhance proficiency in R for machine learning applications.
+
+### Key Features
+
+* ✅  **Data Gathering** – Automates stock data collection from Yahoo Finance using `quantmod`. 
+* ✅  **Feature Engineering** – Calculates technical indicators like Bollinger Bands, MACD, and RSI. 
+* ✅  **Multiple Model Implementation** - Includes ARIMAX, NNETAR, XGBoost, and GARCH models for forecasting. 
+* ✅  **Combined Model** - Implements a combined model to potentially improve forecast accuracy. 
+* ✅  **Model Evaluation** – Assesses model performance using metrics such as MAPE and MSE. 
+* ✅  **Comparative Analysis** – Compares the performance of the different forecasting models to identify effective strategies.
+* ✅  **Visualization** – Generates plots to visualize stock prices, technical indicators, and model forecasts. 
+
+🔗   GitHub Repository: \[Link to your GitHub Repository]
+🔗   
+
+🚀   Tech Stack: R, `tidyverse`, `lubridate`, `quantmod`, `tseries`, `forecast`, `tsibble`, `fable`, `fabletools`, `feasts`, `xgboost`, `caret`, `rugarch` 

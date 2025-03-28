@@ -4,6 +4,7 @@
     "items": [
       "/Projects/excel-ledger.html",
       "/Projects/sqlmemo.html",
+      "/Projects/stock-time-series.html",
       "/Projects/tradebot.html",
       "/Projects/chatbot.html"
     ]
@@ -11,8 +12,14 @@
   {
     "listing": "/recipes.html",
     "items": [
-      "/Recipes/silver ear lotus seed soup.html",
-      "/Recipes/Stir-fried Spicy Beef.html"
+      "/Recipes/bell-pepper-pork.html",
+      "/Recipes/choco-cookie.html",
+      "/Recipes/curry.html",
+      "/Recipes/kale-salad.html",
+      "/Recipes/swiss-roll.html",
+      "/Recipes/silver-lotus-soup.html",
+      "/Recipes/Stir-fried Spicy Beef.html",
+      "/Recipes/Tiramisu.html"
     ]
   }
 ]

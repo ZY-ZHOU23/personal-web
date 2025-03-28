@@ -1,0 +1,5 @@
+---
+title: "Curry <br> 咖喱"
+categories: [Chicken, Beef, Pork]
+image: ./Images/curry.jpg
+---

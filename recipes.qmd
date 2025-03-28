@@ -1,8 +1,9 @@
 ---
 title: "Recipes"
 listing:
+  page-size: 9
   contents: Recipes
-  type: default
+  type: grid
   categories: true
   fields: [image, title, categories]
 ---

@@ -1,12 +1,10 @@
 ---
-title: "Stir-fried Spicy Beef"
-categories: [Beef, Spicy, Stir-fry]
-# image: spicy_beef.jpg
+title: "Stir-fried Spicy Beef <br> 小炒牛肉"
+categories: [Beef, Spicy]
+image: ./Images/stir-fried-beef.jpg
 ---
 
-A classic Hunan-style stir-fry dish, this spicy beef stir-fry combines tender slices of beef with chili peppers and aromatics for a flavorful kick. This dish is best served with steamed rice.
-
-### Ingredients | 用料
+### 🥣 Ingredients
 
 | Ingredient | 用料 | Amount |
 |------------|------|--------|
@@ -20,7 +18,7 @@ A classic Hunan-style stir-fry dish, this spicy beef stir-fry combines tender sl
 | Pickled peppers | 泡椒 | 1 handful |
 | Cilantro | 香菜 | A handful |
 
-### Steps | 步骤
+### 🍴 Steps
 1. Slice the beef against the grain into thin pieces. Marinate with 3 tbsp salad oil, 2 tbsp oyster sauce, a pinch of white pepper powder, and a little starch. Mix well, then add 1 more tbsp oil to lock in moisture.
 2. Mince the ginger, chop the small chili peppers and pickled peppers into segments, and crush and chop the garlic.
 3. Heat a pan until smoking hot, then add oil. Stir-fry the marinated beef quickly, adding a pinch of salt. Once the beef changes color, remove it from the pan immediately to keep it tender.
