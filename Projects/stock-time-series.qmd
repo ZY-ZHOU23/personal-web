@@ -1,9 +1,9 @@
 ---
 title: "Stock Forecasting: A Machine Learning Exploration"
-image: "../Images/sqlmemo.jpg"
+image: "../Images/stock-forecast.jpg"
 ---
 
-![](../Images/sqlmemo.jpg)
+![](../Images/stock-forecast.jpg)
 
 This project focused on applying and comparing various machine learning models for stock price prediction to gain hands-on experience.
 
