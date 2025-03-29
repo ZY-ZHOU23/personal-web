@@ -13,7 +13,7 @@ html[data-theme="light"], [data-theme="light"] body {
 
 html[data-theme="dark"], [data-theme="dark"] body {
   opacity: 0;
-  animation: fade-in 0.2s ease-in-out forwards;
+  animation: fade-in 0.3s ease-in-out forwards;
 }
 
 @keyframes fade-in {
