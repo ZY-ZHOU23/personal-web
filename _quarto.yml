@@ -23,5 +23,9 @@ format:
       dark: [darkly, theme-dark.scss]
     color-scheme: [light, dark]
     css: styles.css
+    include-in-header:
+      - text: |
+          <script src="_freeze/themePersistence.js"></script>
+    
 
     
