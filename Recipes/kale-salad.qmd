@@ -4,3 +4,35 @@ categories: [Vegetable]
 image: ./Images/kale-salad.jpg
 ---
 
+### 🥣 Ingredients | 用料
+
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Sweet potato | 红薯 | 1 large | 一个 |
+| Kale | 羽衣甘蓝 | 3–4 stalks | 3–4根 |
+| Cooked chicken | 熟鸡肉 | 200 g | 200克 |
+| Apple | 苹果 | 1 | 一个 |
+| Grape tomatoes | 圣女果 | 8 pieces | 8个 |
+| Goat cheese | 山羊奶酪 | 20 g | 20克 |
+| Balsamic vinegar | 意大利香醋 | To taste | 适量 |
+| Olive oil | 橄榄油 | To taste | 适量 |
+| Salt and pepper | 盐和黑胡椒 | To taste | 适量 |
+
+### 🍴 Steps | 步骤
+1. Preheat the oven to 200°C.  
+ 将烤箱预热至200°C。
+2. Wash and cut the sweet potato in half lengthwise, then slice thinly.  
+ 将红薯洗净，纵向切半，再切成薄片。
+3. Place sweet potato slices on a baking sheet, spray with oil, and season with salt and pepper. Roast for 40 minutes.  
+ 将红薯片放入烤盘，喷油，加盐和黑胡椒调味，烘烤40分钟。
+4. Wash the kale, remove stems, and chop the leaves into bite-sized pieces.  
+ 羽衣甘蓝洗净去茎，切成小块。
+5. Chop apple, grape tomatoes, and cooked chicken into bite-sized pieces.  
+ 将苹果、圣女果和熟鸡肉切块。
+6. Combine kale, chicken, apple, grape tomatoes, and goat cheese in a bowl.  
+ 将羽衣甘蓝、鸡肉、苹果、圣女果和山羊奶酪放入碗中。
+7. Drizzle with balsamic vinegar and olive oil. Toss to combine and serve.  
+ 淋上香醋和橄榄油，搅拌均匀即可食用。
+ 
+ 
+  [*Reference*](https://www.lakeshorelady.com/sweetgreen-harvest-bowl-knockoff/)

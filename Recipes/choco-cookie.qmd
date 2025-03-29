@@ -4,4 +4,39 @@ categories: [Dessert]
 image: ./Images/choco-cookie.jpg
 ---
 
+### 🥣 Ingredients | 用料
 
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Salted butter (softened) | 黄油（软化） | 227 g | 227克 |
+| Granulated sugar | 白砂糖 | 232 g | 232克 |
+| Light brown sugar (packed) | 红糖（压实） | 213 g | 213克 |
+| Pure vanilla extract | 香草精 | 8 g | 8克 |
+| Eggs (large) | 鸡蛋（大） | 2 | 2个 |
+| All-purpose flour | 中筋面粉 | 410 g | 410克 |
+| Baking soda | 小苏打 | 4 g | 4克 |
+| Sea salt | 海盐 | 5 g | 5克 |
+| Chocolate chips | 巧克力豆 | 396 g | 396克 |
+
+### 🍴 Steps | 步骤
+1. Preheat oven to 190°C (375°F). 
+ 预热烤箱至190°C（375°F）。
+2. In a medium bowl, mix flour, baking soda, and salt. Set aside.  
+ 将面粉、小苏打和盐混合均匀，备用。
+3. Cream together the butter and sugars until smooth and fluffy.  
+ 将黄油与两种糖打发至顺滑松软。
+4. Beat in eggs and vanilla until light, about 1 minute.  
+ 黄油碗中加入鸡蛋和香草精，打发约1分钟至颜色变浅。
+5. Gradually mix in dry ingredients until combined.  
+ 分次加入粉类，搅拌均匀。
+6. Fold in chocolate chips and mix well.  
+ 加入巧克力豆，拌匀。
+7. Roll 2–3 spoons of dough into balls and space evenly on baking sheets.  
+ 取2–3勺面团搓圆，均匀排放在烤盘上。
+8. Bake for 8–10 minutes until just starting to turn golden.  
+ 烘烤8–10分钟，边缘微微上色即可取出。
+9. Let cool on baking pan for 5 minutes, then transfer to a wire rack.  
+ 在烤盘中冷却5分钟后移至晾架冷却。
+ 
+ 
+ [*Reference*](https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/)

@@ -4,3 +4,31 @@ categories: [Dessert]
 image: ./Images/tiramisu.jpg
 ---
 
+### 🥣 Ingredients | 用料
+
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Egg yolk | 蛋黄 | 1 | 一个 |
+| Sugar | 白砂糖 | 25 g | 25克 |
+| Water | 水 | 6 g | 6克 |
+| Gelatin powder | 吉利丁 | 5 g | 5克 |
+| Mascarpone cheese | 马斯卡彭 | 120 g | 120克 |
+| Whipping cream | 淡奶油 | 160 g | 160克 |
+| Cocoa powder | 可可粉 | As needed | 适量 |
+| Ladyfingers | 手指饼干 | As needed | 适量 |
+
+### 🍴 Steps | 步骤
+1. In a bowl over hot water, whisk egg yolk, sugar, and water until pale and thick.  
+ 容器中加入蛋黄、白砂糖和水，隔热水搅拌至发白膨胀。
+2. Add gelatin and mix until fully dissolved.  
+ 加入吉利丁粉，搅拌均匀。
+3. Remove from heat and mix in mascarpone until smooth.  
+ 从热水中拿出后加入马斯卡彭，搅拌均匀。
+4. Whip cream until thick, then fold into the mascarpone mixture.  
+ 淡奶油打发至浓稠状态后，加入容器中搅拌均匀。
+5. Pour half of the mixture into a container, layer with ladyfingers, then top with the remaining mixture.  
+ 倒入一半液体，铺上一层手指饼干，再倒入剩下的液体。
+6. Dust the top with cocoa powder.  
+ 表面撒上一层可可粉。
+7. Chill in refrigerator for 2 hours before serving.  
+ 冰箱冷藏2小时后即可享用。

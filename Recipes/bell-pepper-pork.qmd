@@ -3,3 +3,29 @@ title: "Bell pepper Pork <br> 青椒肉丝"
 categories: [Pork]
 image: ./Images/bell-pepper-pork.jpg
 ---
+
+### 🥣 Ingredients | 用料
+
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Pork tenderloin | 猪里脊 | 250 g | 250克 |
+| Green pepper | 青椒 | 2 pieces | 2个 |
+| Garlic (minced) | 蒜末 | 3 cloves | 3瓣 |
+| Ginger | 生姜 | A small piece | 1小块 |
+| Light soy sauce | 生抽 | 2 spoons | 2勺 |
+| Cooking wine | 料酒 | 1 spoon | 1勺 |
+| Starch | 生粉 | 2 spoons | 2勺 |
+| Salt | 盐 | To taste | 适量 |
+| White pepper powder | 白胡椒粉 | To taste | 适量 |
+
+### 🍴️ Steps | 步骤
+1. Prepare ingredients: Slice pork into strips, deseed and slice green peppers, mince garlic.  
+ 准备材料：瘦肉切丝，青椒去籽切丝，蒜切末备用。
+2. Marinate pork with 1 spoon cooking wine, 1 spoon soy sauce, 1 spoon starch, and a pinch of salt and white pepper powder. Add a bit of oil and mix clockwise until evenly coated.  
+ 将肉丝腌制：1勺料酒、1勺生抽、1勺生粉、少许盐和白胡椒粉，最后加一点油，顺时针搅拌均匀备用。
+3. Heat oil in a pan and stir-fry the pork strips until they change color.  
+ 锅中倒入适量油，烧热后倒入肉丝炒至变色。
+4. Adjust seasoning with salt if needed, then add minced ginger and garlic. Stir-fry until aromatic.  
+ 根据肉的咸淡加盐，加入姜蒜末翻炒出香味。
+5. Add green pepper strips, stir-fry until slightly softened, then drizzle soy sauce along the side of the pan. Thicken with a bit of starch water and finish when the sauce is slightly reduced.  
+ 倒入青椒丝炒至断生，锅边淋入酱油，倒入一些生粉水勾芡，收汁即可。

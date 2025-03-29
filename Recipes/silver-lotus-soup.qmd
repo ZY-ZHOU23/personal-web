@@ -6,17 +6,23 @@ image: ./Images/silver-lotus-soup.jpg
 
 ### 🥣 Ingredients 
 
-| Ingredient | 用料 | Amount |
-|------------|------|--------|
-| Silver ear fungus | 银耳 | Half piece |
-| Lotus seeds | 莲子 | 20 pieces |
-| Rock sugar | 冰糖 | To taste |
-| Water | 水 | Sufficient to cover the ingredients |
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Silver ear fungus | 银耳 | Half piece | 半朵 |
+| Lotus seeds | 莲子 | About 20 pieces | 20颗左右 |
+| Rock sugar | 冰糖 | To taste | 依口味调整 |
+| Water | 水 | Enough to cover ingredients | 没过食材即可 |
 
 ### 🍴 Steps
-1. Soak the silver ear fungus and lotus seeds in water for 1–2 hours until softened.
-2. Tear the silver ear fungus into small pieces.
-3. Wash the soaked ingredients thoroughly and place them into a rice cooker.
-4. Add water until the ingredients are fully submerged.
-5. Add rock sugar according to taste preference.
-6. Use the "Soup" setting on the rice cooker and cook for at least 2 hours.
+1. Soak the silver ear fungus and lotus seeds in water for 1–2 hours until softened.  
+ 银耳和莲子泡发1～2小时。
+2. Tear the silver ear fungus into small pieces.  
+ 银耳撕碎。
+3. Wash the soaked ingredients thoroughly and place them into a rice cooker.  
+ 银耳和莲子洗干净后放入电饭煲。
+4. Add water until the ingredients are fully submerged.  
+ 加水莫过银耳。
+5. Add rock sugar according to taste preference.  
+ 按个人喜好加糖。
+6. Use the "Soup" setting on the rice cooker and cook for at least 2 hours.  
+ 选择“煲汤”功能，煮两个小时以上。

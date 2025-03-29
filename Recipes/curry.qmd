@@ -3,3 +3,26 @@ title: "Curry <br> 咖喱"
 categories: [Chicken, Beef, Pork]
 image: ./Images/curry.jpg
 ---
+
+### 🥣 Ingredients | 用料
+
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Protein of choice (chicken, beef, etc.) | 蛋白质（鸡肉、牛肉） | 200 g | 200克 |
+| Curry roux block | 咖喱块 | 50 g | 50克 |
+| Milk | 牛奶 | 50 ml | 50毫升 |
+| Potato | 土豆 | 1  | 一个 |
+| Carrot | 胡萝卜 | 1  | 一根 |
+| Onion | 洋葱 | Half | 半颗 |
+
+### 🍴 Steps | 步骤
+1. Cut the meat, carrot, potato, and onion into chunks. (Onion slightly larger pieces)  
+ 将肉、胡萝卜、土豆、洋葱切块。（洋葱切大点）
+2. Heat oil in a pot and stir-fry all the ingredients until partially cooked.  
+ 锅中热油，放入食材翻炒到食材断生。
+3. Add enough water to just cover the ingredients. Once boiling, reduce to low heat and simmer for 20 minutes.  
+ 锅中加水莫过食材，水沸后转小火焖煮20分钟。
+4. Add the curry block and stir until fully dissolved.  
+ 加入咖喱块搅拌至完全融化。
+5. Turn up the heat, add milk, and simmer until the sauce thickens. Serve.  
+ 开大火并加入牛奶，收汁后出锅。

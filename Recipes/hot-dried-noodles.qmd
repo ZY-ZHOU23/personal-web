@@ -1,0 +1,34 @@
+---
+title: "Hot Dried Noodles <br> 干拌面"
+categories: [Carbs, Spicy]
+image: ./Images/hot-dried-noodles.jpg
+---
+
+### 🥣 Ingredients | 用料
+
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Noodles | 面条 | As needed | 适量 |
+| Chili soy sauce (or spicy dipping sauce) | 鲜辣露 | 1 spoon | 一勺 |
+| Light soy sauce | 生抽 | 2 spoons | 两勺 |
+| Peanut butter | 花生酱 | 1 spoon | 一勺 |
+| Vinegar | 醋 | ½ spoon | 一小勺 |
+| Sesame oil | 香油 | 1 spoon | 一勺 |
+| Ground meat | 肉沫 | 50 g | 50克 |
+| Cooking wine | 料酒 | ½ spoon | 一小勺 |
+| Scallion | 葱 | 1 stalk | 一根 |
+| Garlic | 蒜 | 2 cloves | 两瓣 |
+| Salt | 盐 | To taste | 适量 |
+
+### 🍴️ Steps | 步骤
+1. Finely chop garlic and scallion, set aside.  
+ 蒜和葱切碎备用。
+2. Heat oil in a pan, stir-fry ground meat until browned, add cooking wine and stir. Add garlic and salt to taste, then remove and set aside.  
+ 热锅烧油后加入肉沫，炒开后加入料酒翻炒。加入蒜和适量盐调味。乘出备用。
+3. In a large bowl, add chili soy sauce, soy sauce, peanut butter, vinegar, and sesame oil.  
+ 碗中加入鲜辣露，生抽，花生酱，醋和香油。
+4. Boil water and cook the noodles until done. Transfer noodles to the bowl.  
+ 锅中加水烧沸煮面，熟后放入碗中。
+5. Top with prepared meat and chopped scallion, mix thoroughly, and serve.  
+ 碗中加入葱和炒好的肉末，搅拌均匀即可食用。
+

@@ -4,3 +4,61 @@ categories: [Dessert]
 image: ./Images/swiss-roll.jpg
 ---
 
+### 🥣 Ingredients | 用料
+
+ - **Cake | 蛋糕**
+
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Eggs | 鸡蛋 | 4 (60 g each) | 4个（单个约60克） |
+| Matcha powder | 抹茶粉 | 10 g | 10克 |
+| Hot water | 热水 | 80 g | 80克 |
+| Sugar (for yolk) | 细砂糖（蛋黄用） | 15 g | 15克 |
+| Vegetable oil | 色拉油 | 40 g | 40克 |
+| Cake flour | 低筋面粉 | 65 g | 65克 |
+| Sugar (for whites) | 细砂糖（蛋白用） | 60 g | 60克 |
+
+ - **Filling | 夹馅**
+
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Heavy cream | 淡奶油 | 150 g | 150克 |
+| Sugar | 细砂糖 | 15 g | 15克 |
+| Strawberries | 草莓 | As needed | 适量 |
+
+ - **Topping | 淋面**
+
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Chocolate | 巧克力 | 150 g | 150克 |
+| Coconut oil | 椰子油 | 30 g | 30克 |
+| Crushed hazelnuts | 榛子碎 | As needed | 适量 |
+
+### 🍴 Steps | 步骤
+1. Whisk hot water into matcha powder until smooth. If using high-quality matcha, reduce to 8 g. Prepare baking sheet with heatproof parchment.  
+ 将热水慢慢倒入抹茶粉中调均匀备用。若用好抹茶可减至8克。铺好高温油布。
+2. Separate eggs. Add 15 g sugar to yolks and mix, then stir in oil and matcha liquid in portions.  
+ 蛋黄中加入15克细砂糖拌匀，再分次加入油和抹茶液搅匀。
+3. Sift in cake flour and fold with spatula until no dry flour remains.  
+ 筛入低筋面粉，用刮刀切拌至无干粉状态。
+4. Whip egg whites with sugar in 3 additions until soft peaks (wet foam).  
+ 蛋白分三次加糖打至湿性发泡（大弯钩）。
+5. Fold meringue into yolk mixture in three parts. Pour into tray and gently tap to remove air.  
+ 蛋白分三次切拌入蛋黄糊中，倒入烤盘轻震几下。
+6. Bake at 180°C for about 18 minutes. Adjust time based on your oven.  
+ 180°C烘烤18分钟左右，视烤箱调整。
+7. Remove and invert onto cooling rack. Peel off parchment.  
+ 出炉后倒扣放凉，撕去油布。
+8. While still warm, roll cake with help of rolling pin to shape.  
+ 趁温热借助擀面杖卷起定型，温热时不易裂。
+9. Whip cream with sugar until stiff. Unroll cake, spread cream, and add sliced strawberries.  
+ 奶油+糖打发至不流动，展开蛋糕卷抹上奶油，三分之一处放草莓。
+10. Roll up tightly and chill in fridge for 2 hours.  
+ 卷起后冷藏2小时。
+11. Melt chocolate with coconut oil, mix in hazelnuts.  
+ 隔水融化巧克力，加入椰子油和榛子碎。
+12. Pour glaze over cake, refrigerate another 30 minutes before slicing.  
+ 淋在蛋糕卷上，冷藏半小时后切块。
+ 
+ 
+  [*Reference*](https://m.xiachufang.com/recipe/101774593/)

@@ -1,0 +1,29 @@
+---
+title: "Pork Rib Soup with Kelp <br> 排骨海带汤"
+categories: [Soup, Pork]
+image: ./Images/pork-rib-soup-kelp.jpg
+---
+
+### 🥣 Ingredients | 用料
+
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Pork ribs | 排骨 | 250 g | 250克 |
+| Kelp | 海带 | As needed | 适量 |
+| Ginger | 姜 | 1 small piece | 一小块 |
+| Scallion | 葱 | 2 stalks | 两根 |
+| Cooking wine | 料酒 | 1 spoon | 一勺 |
+| Vinegar | 醋 | ½ spoon | 一小勺 |
+| Salt and white pepper | 盐和白胡椒 | To taste | 适量 |
+
+### 🍴 Steps | 步骤
+1. In a pot with cold water, add pork ribs, cooking wine, and sliced ginger. Bring to a boil, then remove and drain ribs.  
+ 焯水：冷水锅中加入排骨、料酒和姜片。水沸后捞出排骨。
+2. Heat oil in a pan and lightly brown the ribs.  
+ 热锅烧油后加入排骨，炒至表面微黄。
+3. Transfer ribs to a rice cooker. Add ginger slices and hot water to cover. Select “Soup” mode and cook for 2 hours.  
+ 排骨放入电饭煲，加入姜片和热水，没过排骨。选择“煲汤”，炖2小时。
+4. Add vinegar, white pepper, and kelp. Continue to cook for 10 more minutes.  
+ 加入醋、白胡椒粉和海带，再炖10分钟。
+5. Season with salt to taste and serve.  
+ 根据口味加盐调味后即可食用。

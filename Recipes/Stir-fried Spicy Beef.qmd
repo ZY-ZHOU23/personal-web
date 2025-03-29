@@ -6,22 +6,28 @@ image: ./Images/stir-fried-beef.jpg
 
 ### 🥣 Ingredients
 
-| Ingredient | 用料 | Amount |
-|------------|------|--------|
-| Yellow beef | 黄牛肉 | 250g |
-| Ginger | 姜 | 1 piece |
-| Garlic | 蒜 | Half bulb |
-| Oyster sauce | 蚝油 | 2 tbsp |
-| White pepper powder | 白胡椒粉 | To taste |
-| Canola oil | 菜籽油 | As needed |
-| Small chili peppers | 小米辣 | 4 pieces |
-| Pickled peppers | 泡椒 | 1 handful |
-| Cilantro | 香菜 | A handful |
+| Ingredient | 用料 | Amount | 份量 |
+|------------|------|--------|------|
+| Yellow beef | 黄牛肉 | 250 g | 250克 |
+| Ginger | 姜 | A small piece | 一小块 |
+| Garlic | 蒜 | Half bulb | 半颗左右 |
+| Oyster sauce | 蚝油 | 2 spoons | 2勺 |
+| White pepper powder | 白胡椒粉 | A pinch | 少许 |
+| Canola oil | 菜籽油 | As needed | 适量 |
+| Small chili peppers | 小米辣 | 4 pieces | 4个 |
+| Pickled peppers | 泡椒 | 1 handful | 一把 |
+| Cilantro | 香菜 | A small bunch | 一撮 |
 
 ### 🍴 Steps
-1. Slice the beef against the grain into thin pieces. Marinate with 3 tbsp salad oil, 2 tbsp oyster sauce, a pinch of white pepper powder, and a little starch. Mix well, then add 1 more tbsp oil to lock in moisture.
-2. Mince the ginger, chop the small chili peppers and pickled peppers into segments, and crush and chop the garlic.
-3. Heat a pan until smoking hot, then add oil. Stir-fry the marinated beef quickly, adding a pinch of salt. Once the beef changes color, remove it from the pan immediately to keep it tender.
-4. Chop the cilantro into 3–4 cm segments.
-5. In the remaining oil, add the ginger, garlic, and chili peppers. Stir-fry until fragrant, then add a dash of soy sauce.
-6. Return the beef to the pan, toss everything together quickly, then add the cilantro. Stir briefly and serve immediately.
+1. Slice the beef against the grain into thin pieces. Marinate with 3 spoons salad oil, 2 spoons of oyster sauce, a pinch of white pepper powder, and a little starch. Mix well, then add 1 more spoon of oil to lock in moisture.  
+  黄牛肉逆着纹理切小片，加3勺色拉油、2勺蚝油、少量白胡椒粉抓匀，再加一点淀粉抓匀，最后再来一勺油抓一下锁水。
+2. Mince the ginger, chop the chili peppers and pickled peppers into segments, and crush and chop the garlic.  
+  生姜切小丁，小米辣（红色的）和泡椒切段，8颗蒜拍扁后切粒。
+3. Heat a pan until smoking hot, then add oil. Stir-fry the beef with a pinch of salt until just cooked and remove quickly to prevent toughness.  
+  锅烧热，要烧到冒烟再倒油，油热后倒入牛肉快速翻炒，加一点盐，变色就捞出，动作要快。
+4. Cut cilantro into 3–4 cm segments.  
+  香菜切成3–4厘米段，不要太长以免影响炒制时间。
+5. In remaining oil, add ginger, garlic, and chilies. Stir-fry until fragrant, then add a dash of soy sauce.  
+  锅里留些油，放入姜蒜辣椒爆香，加入少许生抽。
+6. Return beef to the pan, toss briefly, then add cilantro and stir just until combined. Serve immediately.  
+  倒入牛肉翻炒几下，再倒入香菜段，关火后快速翻炒均匀，出锅。

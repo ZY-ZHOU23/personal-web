@@ -19,7 +19,9 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: [darkly, theme-dark.scss]
+    color-scheme: [light, dark]
     css: styles.css
+
     
