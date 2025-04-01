@@ -28,7 +28,8 @@ The **Stock Forecasting project** is a hands-on exploration of machine learning 
 * ✅  **Comparative Analysis** – Compares the performance of the different forecasting models to identify effective strategies.
 * ✅  **Visualization** – Generates plots to visualize stock prices, technical indicators, and model forecasts. 
 
-🔗   GitHub Repository: \[Link to your GitHub Repository]
-🔗   
+🔗   [Step-by-step file](../Documents/stock-time-series-steps.pdf)
+
+🔗   [Visualized file](../Documents/stock-time-series-tests.pdf)
 
 🚀   Tech Stack: R, `tidyverse`, `lubridate`, `quantmod`, `tseries`, `forecast`, `tsibble`, `fable`, `fabletools`, `feasts`, `xgboost`, `caret`, `rugarch` 

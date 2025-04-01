@@ -5,34 +5,46 @@ image: "../Images/sqlmemo.jpg"
 
 ![](../Images/sqlmemo.jpg)
 
-work in progress
 
-A full-stack personal memo system leveraging MySQL, Express.js, React, and Python for structured data storage, automation, and analytics.
+A full-stack web application designed to help users organize, track, and analyze personal data across domains like health, finance, habits, and goals. The system integrates structured data storage, analytics, and automation to provide a seamless digital assistant for self-management.
 
-The Personal Memo System is designed to help users efficiently store, manage, and analyze structured personal data, such as financial records, health metrics, and goal tracking. By integrating SQL for data storage, Express.js for API management, React for a user-friendly interface, and Python for automation and analytics, this project serves as a comprehensive digital organization tool.
+---
 
-### Purpose:
-Provide a secure and structured memo management system for various personal data.
-Enable automated data backups and trend analysis for financial and health tracking.
-Offer an intuitive React-based frontend for easy data entry and visualization.
-Showcase full-stack development skills with SQL, API development, and Python automation.
+#### 🔍 **Purpose**
+To offer a secure, user-friendly system for storing and organizing memos, tracking custom metrics, and generating meaningful insights through automation and data visualization. This project highlights full-stack development with MySQL, FastAPI, React, and Python for real-world applications in personal productivity and life organization.
 
-### Key Features:
+---
 
-✅ MySQL Database – Secure storage with relational data management.
+#### 🚀 **Key Features**
+- ✅ **FastAPI Backend** – High-performance RESTful API for managing entries, metrics, users, categories, and tags.
+- ✅ **MySQL & SQLAlchemy** – Reliable relational database for structured, secure data storage.
+- ✅ **React Frontend (TypeScript)** – Interactive and customizable dashboard for memo entry, browsing, and metric visualization.
+- ✅ **Advanced Analytics** – Python-powered insights with Pandas, Matplotlib, and Seaborn: trends, summaries, and visualized metrics.
+- ✅ **Automation Tools** – Scheduled database backups, audit logs, and progress tracking features.
+- ✅ **Category & Tag-Based Organization** – Clean structure to keep data discoverable and meaningful.
+- ✅ **Metric Tracking System** – Visualize personal goals over time, with scatter plots, summary stats, and trend lines.
+- ✅ **User Authentication** – Secure access via JWT-based login system.
+- ✅ **Responsive UI** – Built with Tailwind CSS and Material-UI for a sleek and responsive experience.
 
-✅ Express.js API – RESTful backend for seamless CRUD operations.
+---
 
-✅ React Frontend – Interactive UI for managing memos and visualizing trends.
+#### 🧰 **Tech Stack**
+- **Backend:** FastAPI, SQLAlchemy, Alembic, Redis, MySQL  
+- **Frontend:** React (TypeScript), Chart.js, Axios, Material-UI  
+- **Automation & Analysis:** Python, Pandas, Matplotlib, Seaborn  
+- **Others:** JWT, Docker, Tailwind CSS  
 
-✅ Python Automation – Scheduled database backups and analytical reports.
+---
 
-✅ Data Analysis – Uses Pandas, Matplotlib, and Seaborn to provide insights.
+#### 💡 **Highlights**
+- Real-time analytics and metric trend tracking  
+- Modular architecture with clean API versioning  
+- Swagger UI API docs for easy exploration (`/docs`)  
+- Customizable dashboards and flexible metric definitions  
+- Fully deployable on a virtual machine or cloud server
 
-The project is deployed on a Virtual Machine and integrates authentication, category-based organization, and an API-driven backend for structured data management.
+---
 
-🔗 GitHub Repository: [MemoTrack-SQL](https://github.com/ZY-ZHOU23/MemoTrack-SQL)
+🔗 **GitHub Repository**: [MemoTrack-SQL](https://github.com/ZY-ZHOU23/MemoTrack-SQL)
 
-🚀 Tech Stack: MySQL, Express.js, React, Node.js, Python, Flask, Pandas, Tailwind CSS, Chart.js
-
-This project is a practical learning experience, combining database management, backend development, frontend UI, automation, and data analytics into a single, full-stack system.
+This project is a comprehensive demonstration of modern full-stack engineering—merging data management, frontend interactivity, backend scalability, and Python-based automation into a single cohesive system.

@@ -12,7 +12,7 @@ about:
       url: "https://www.linkedin.com/in/zhiyuan-zhou-093972341"
     - text: Resume
       icon: file-earmark-person-fill
-      url: "Resume.pdf"
+      url: "Documents/Resume.pdf"
   
 comments: false
 css: styles.css

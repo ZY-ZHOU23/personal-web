@@ -26,6 +26,6 @@ format:
     include-in-header:
       - text: |
           <script src="_freeze/themePersistence.js"></script>
-    
-
+execute:
+  freeze: auto
     
