@@ -1,0 +1,14 @@
+---
+title: "Statistical Privacy"
+image: "../Images/statistical_privacy.png"
+---
+
+
+![](../Images/statistical_privacy.png)
+
+
+In progress....
+
+
+
+🔗   [Step-by-step file](../Documents/stats-privacy.html)

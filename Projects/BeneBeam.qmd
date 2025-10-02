@@ -1,9 +1,0 @@
----
-title: "WeChat Chat Bot"
-image: "../Images/chatbot.jpg"
----
-
-
-![](../Images/BeneBeam.png)
-
-
