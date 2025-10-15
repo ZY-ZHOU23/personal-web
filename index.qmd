@@ -30,12 +30,33 @@ When I’m not crunching numbers or building models, you’ll find me exploring 
 
 I’m always eager to connect, collaborate, and learn—whether it’s about data, policy, photography, or the best way to cook a perfect stir-fry!
 
+---
+
+::: {.columns}
+::: {.column width="50%"}
+
 ## Bonnie~
 
 ```{=html}
 
+<style>
+.carousel-container {
+  width: 90%;
+  max-width: 500px; /* Increased max width */
+  margin: 0 auto;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: auto;
+  max-height: 500px; /* Increased max height */
+  object-fit: cover;
+  border-radius: 12px;
+}
+</style>
+
 <div class="carousel-container">
-  <div id="mermerphoto" class="carousel slide" data-bs-ride="carousel">
+  <div id="bonniephoto" class="carousel slide" data-bs-ride="carousel">
   
     <!-- Carousel Items -->
     <div class="carousel-inner">
@@ -54,26 +75,24 @@ I’m always eager to connect, collaborate, and learn—whether it’s about dat
     </div>
     
     <!-- Navigation Controls -->
-    <button class="carousel-control-prev" type="button" data-bs-target="#mermerphoto" data-bs-slide="prev">
+    <button class="carousel-control-prev" type="button" data-bs-target="#bonniephoto" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
     </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#mermerphoto" data-bs-slide="next">
+    <button class="carousel-control-next" type="button" data-bs-target="#bonniephoto" data-bs-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Next</span>
     </button>
   </div>
 </div>
-
-
 ```
 
-
+:::
+::: {.column width="50%"}
 
 ## MerMer~
 
 ```{=html}
-
 <div class="carousel-container">
   <div id="mermerphoto" class="carousel slide" data-bs-ride="carousel">
   
@@ -116,9 +135,8 @@ I’m always eager to connect, collaborate, and learn—whether it’s about dat
     </button>
   </div>
 </div>
-
-
 ```
 
-
 :::
+:::
+::: 
