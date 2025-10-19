@@ -1,16 +1,5 @@
 [
   {
-    "listing": "/about.html",
-    "items": [
-      "/Projects/excel-ledger.html",
-      "/Projects/sqlmemo.html",
-      "/Projects/stats_privacy.html",
-      "/Projects/stock-time-series.html",
-      "/Projects/tradebot.html",
-      "/Projects/chatbot.html"
-    ]
-  },
-  {
     "listing": "/recipes.html",
     "items": [
       "/Recipes/bell-pepper-pork.html",
@@ -20,9 +9,21 @@
       "/Recipes/kale-salad.html",
       "/Recipes/swiss-roll.html",
       "/Recipes/pork-rib-soup-kelp.html",
+      "/Recipes/shrimp-taco.html",
       "/Recipes/silver-lotus-soup.html",
       "/Recipes/Stir-fried Spicy Beef.html",
       "/Recipes/Tiramisu.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/Projects/excel-ledger.html",
+      "/Projects/sqlmemo.html",
+      "/Projects/stats_privacy.html",
+      "/Projects/stock-time-series.html",
+      "/Projects/tradebot.html",
+      "/Projects/chatbot.html"
     ]
   }
 ]
