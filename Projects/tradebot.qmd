@@ -5,4 +5,17 @@ image: "../Images/tradebot.jpg"
 
 ![](../Images/tradebot.jpg)
 
-work in progress
+## Summary
+
+This project is under development. The intended system is a trading automation prototype that evaluates market signals, applies rule-based decision logic, and records trading activity for review.
+
+## Planned Scope
+
+- Market data ingestion.
+- Signal generation and strategy testing.
+- Execution logic with risk controls.
+- Logging and performance reporting.
+
+## Status
+
+Design and implementation are in progress.

@@ -8,3 +8,4 @@ listing:
   fields: [image, title, categories]
 ---
 
+This section is maintained as a structured cooking reference. Recipes are written as concise ingredient lists and repeatable procedures.

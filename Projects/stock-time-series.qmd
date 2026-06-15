@@ -1,35 +1,26 @@
 ---
-title: "Stock Forecasting: A Machine Learning Exploration"
+title: "Stock Forecasting with Time Series Models"
 image: "../Images/stock-forecast.jpg"
 ---
 
 ![](../Images/stock-forecast.jpg)
 
-This project focused on applying and comparing various machine learning models for stock price prediction to gain hands-on experience.
+## Summary
 
+This project compares statistical and machine learning approaches for stock price forecasting. The analysis was developed in R and focuses on data preparation, technical indicators, model estimation, and performance evaluation.
 
+## Methods
 
-The **Stock Forecasting project** is a hands-on exploration of machine learning models applied to stock price prediction. Developed using R, it utilizes libraries such as `quantmod`, `forecast`, and `tidyverse` to facilitate data manipulation, visualization, and model implementation. This project emphasizes practical skill development in time series analysis, financial data processing, and predictive modeling, using a range of models.
+- Retrieved market data from Yahoo Finance with `quantmod`.
+- Engineered indicators including Bollinger Bands, MACD, and RSI.
+- Estimated ARIMAX, NNETAR, XGBoost, GARCH, and combined forecasting models.
+- Evaluated results with error metrics including MAPE and MSE.
 
-### Purpose
+## Deliverables
 
-* Gain practical experience with various time series models.
-* Develop skills in analyzing and visualizing stock data trends.
-* Practice evaluating the performance of different forecasting models.
-* Enhance proficiency in R for machine learning applications.
+- [Step-by-step analysis](../Documents/stock-time-series-steps.pdf)
+- [Visualization report](../Documents/stock-time-series-tests.pdf)
 
-### Key Features
+## Tools
 
-* ✅  **Data Gathering** – Automates stock data collection from Yahoo Finance using `quantmod`. 
-* ✅  **Feature Engineering** – Calculates technical indicators like Bollinger Bands, MACD, and RSI. 
-* ✅  **Multiple Model Implementation** - Includes ARIMAX, NNETAR, XGBoost, and GARCH models for forecasting. 
-* ✅  **Combined Model** - Implements a combined model to potentially improve forecast accuracy. 
-* ✅  **Model Evaluation** – Assesses model performance using metrics such as MAPE and MSE. 
-* ✅  **Comparative Analysis** – Compares the performance of the different forecasting models to identify effective strategies.
-* ✅  **Visualization** – Generates plots to visualize stock prices, technical indicators, and model forecasts. 
-
-🔗   [Step-by-step file](../Documents/stock-time-series-steps.pdf)
-
-🔗   [Visualized file](../Documents/stock-time-series-tests.pdf)
-
-🚀   Tech Stack: R, `tidyverse`, `lubridate`, `quantmod`, `tseries`, `forecast`, `tsibble`, `fable`, `fabletools`, `feasts`, `xgboost`, `caret`, `rugarch` 
+R, `tidyverse`, `lubridate`, `quantmod`, `tseries`, `forecast`, `tsibble`, `fable`, `fabletools`, `feasts`, `xgboost`, `caret`, `rugarch`.

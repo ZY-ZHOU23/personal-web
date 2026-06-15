@@ -4,7 +4,7 @@ categories: [Vegetable]
 image: ./Images/kale-salad.jpg
 ---
 
-### 🥣 Ingredients | 用料
+### Ingredients | 用料
 
 | Ingredient | 用料 | Amount | 份量 |
 |------------|------|--------|------|
@@ -18,7 +18,7 @@ image: ./Images/kale-salad.jpg
 | Olive oil | 橄榄油 | To taste | 适量 |
 | Salt and pepper | 盐和黑胡椒 | To taste | 适量 |
 
-### 🍴 Steps | 步骤
+### Method | 步骤
 1. Preheat the oven to 200°C.  
  将烤箱预热至200°C。
 2. Wash and cut the sweet potato in half lengthwise, then slice thinly.  
@@ -35,4 +35,4 @@ image: ./Images/kale-salad.jpg
  淋上香醋和橄榄油，搅拌均匀即可食用。
  
  
-  [*Reference*](https://www.lakeshorelady.com/sweetgreen-harvest-bowl-knockoff/)
+[*Reference*](https://www.lakeshorelady.com/sweetgreen-harvest-bowl-knockoff/)

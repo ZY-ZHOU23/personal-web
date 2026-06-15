@@ -1,10 +1,10 @@
 ---
-title: "Bell pepper Pork <br> 青椒肉丝"
+title: "Bell Pepper Pork <br> 青椒肉丝"
 categories: [Pork]
 image: ./Images/bell-pepper-pork.jpg
 ---
 
-### 🥣 Ingredients | 用料
+### Ingredients | 用料
 
 | Ingredient | 用料 | Amount | 份量 |
 |------------|------|--------|------|
@@ -18,7 +18,7 @@ image: ./Images/bell-pepper-pork.jpg
 | Salt | 盐 | To taste | 适量 |
 | White pepper powder | 白胡椒粉 | To taste | 适量 |
 
-### 🍴️ Steps | 步骤
+### Method | 步骤
 1. Prepare ingredients: Slice pork into strips, deseed and slice green peppers, mince garlic.  
  准备材料：瘦肉切丝，青椒去籽切丝，蒜切末备用。
 2. Marinate pork with 1 spoon cooking wine, 1 spoon soy sauce, 1 spoon starch, and a pinch of salt and white pepper powder. Add a bit of oil and mix clockwise until evenly coated.  

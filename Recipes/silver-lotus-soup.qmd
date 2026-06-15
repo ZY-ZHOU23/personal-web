@@ -4,7 +4,7 @@ categories: [Soup, Dessert]
 image: ./Images/silver-lotus-soup.jpg
 ---
 
-### 🥣 Ingredients 
+### Ingredients | 用料
 
 | Ingredient | 用料 | Amount | 份量 |
 |------------|------|--------|------|
@@ -13,7 +13,7 @@ image: ./Images/silver-lotus-soup.jpg
 | Rock sugar | 冰糖 | To taste | 依口味调整 |
 | Water | 水 | Enough to cover ingredients | 没过食材即可 |
 
-### 🍴 Steps
+### Method | 步骤
 1. Soak the silver ear fungus and lotus seeds in water for 1–2 hours until softened.  
  银耳和莲子泡发1～2小时。
 2. Tear the silver ear fungus into small pieces.  

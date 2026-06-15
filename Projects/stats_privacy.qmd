@@ -3,12 +3,15 @@ title: "Statistical Privacy"
 image: "../Images/statistical_privacy.png"
 ---
 
-
 ![](../Images/statistical_privacy.png)
 
+## Summary
 
-In progress....
+This work-in-progress project studies statistical privacy methods and their implications for data analysis. The current deliverable is an exploratory report.
 
+## Status
 
+- Draft analysis available.
+- Additional synthesis and documentation are pending.
 
-🔗   [Step-by-step file](../Documents/stats-privacy.html)
+**Artifact:** [Step-by-step file](../Documents/stats-privacy.html)

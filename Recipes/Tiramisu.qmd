@@ -4,7 +4,7 @@ categories: [Dessert]
 image: ./Images/tiramisu.jpg
 ---
 
-### 🥣 Ingredients | 用料
+### Ingredients | 用料
 
 | Ingredient | 用料 | Amount | 份量 |
 |------------|------|--------|------|
@@ -17,7 +17,7 @@ image: ./Images/tiramisu.jpg
 | Cocoa powder | 可可粉 | As needed | 适量 |
 | Ladyfingers | 手指饼干 | As needed | 适量 |
 
-### 🍴 Steps | 步骤
+### Method | 步骤
 1. In a bowl over hot water, whisk egg yolk, sugar, and water until pale and thick.  
  容器中加入蛋黄、白砂糖和水，隔热水搅拌至发白膨胀。
 2. Add gelatin and mix until fully dissolved.  

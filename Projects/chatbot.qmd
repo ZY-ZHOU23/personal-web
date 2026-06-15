@@ -1,33 +1,23 @@
 ---
-title: "WeChat Chat Bot"
+title: "WeChat Chatbot"
 image: "../Images/chatbot.jpg"
 ---
 
 ![](../Images/chatbot.jpg)
-A Python-based chatbot for WeChat, integrating OpenAI’s API for AI-powered conversations.
 
-The **WeChat Chatbot** enhances WeChat interactions by providing AI-driven conversational responses in real time. Built with Python, it leverages **wxauto** for WeChat automation and OpenAI’s API for intelligent, context-aware replies. This project showcases expertise in **chatbot development, automation, and large language model (LLM) integration**.  
+## Summary
 
-### Purpose  
-- Automate conversational responses using AI.  
-- Maintain context for more relevant and coherent interactions.  
-- Demonstrate Python-based WeChat automation and LLM API integration.  
+This Python chatbot prototype automates WeChat message handling and generates responses through the OpenAI API. The project demonstrates integration between desktop automation, conversation state management, and large language model services.
 
-### Key Features  
-✅ **OpenAI Integration** – AI-driven responses with conversation history management.  
+## Scope
 
-✅ **WeChat Automation** – Auto-retrieves and processes messages using wxauto.  
+- Retrieve and process WeChat messages with `wxauto`.
+- Maintain conversation context for more coherent responses.
+- Run message handling in a background process.
+- Log activity for debugging and review.
 
-✅ **Context-Aware Conversations** – Builds conversation context dynamically for better responses.  
+## Implementation
 
-✅ **Background Processing** – Runs a background process for real-time message handling.  
+The prototype is designed for PC WeChat version 3.9.11.17. Core tools include Python, OpenAI API, `wxauto`, threading, and logging.
 
-The chatbot functions as an **AI assistant for WeChat**, streamlining communication with automated, intelligent responses. It is designed to work with **PC WeChat version 3.9.11.17**.  
-
-🔗 GitHub Repository: [ChatBot_WeChat](https://github.com/ZY-ZHOU23/ChatBot_WeChat)
-
-🚀 Tech Stack: Python, OpenAI API, wxauto, threading, logging
-
-This project is a hands-on practice in AI-driven automation, chatbot development, and NLP-enhanced user interactions.
-
-
+**Repository:** [ChatBot_WeChat](https://github.com/ZY-ZHOU23/ChatBot_WeChat)

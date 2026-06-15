@@ -4,7 +4,7 @@ categories: [Beef, Spicy]
 image: ./Images/stir-fried-beef.jpg
 ---
 
-### 🥣 Ingredients
+### Ingredients | 用料
 
 | Ingredient | 用料 | Amount | 份量 |
 |------------|------|--------|------|
@@ -18,7 +18,7 @@ image: ./Images/stir-fried-beef.jpg
 | Pickled peppers | 泡椒 | 1 handful | 一把 |
 | Cilantro | 香菜 | A small bunch | 一撮 |
 
-### 🍴 Steps
+### Method | 步骤
 1. Slice the beef against the grain into thin pieces. Marinate with 3 spoons salad oil, 2 spoons of oyster sauce, a pinch of white pepper powder, and a little starch. Mix well, then add 1 more spoon of oil to lock in moisture.  
   黄牛肉逆着纹理切小片，加3勺色拉油、2勺蚝油、少量白胡椒粉抓匀，再加一点淀粉抓匀，最后再来一勺油抓一下锁水。
 2. Mince the ginger, chop the chili peppers and pickled peppers into segments, and crush and chop the garlic.  

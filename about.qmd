@@ -5,3 +5,4 @@ listing:
   type: grid
 ---
 
+This section documents selected analytical and technical work. Each entry summarizes the problem addressed, the methods used, and the primary deliverables.

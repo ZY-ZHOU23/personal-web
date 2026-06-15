@@ -4,7 +4,7 @@ categories: [Seafood, Spicy]
 image: ./Images/shrimp-taco.png
 ---
 
-### 🥣 Ingredients | 用料
+### Ingredients | 用料
 
 | Ingredient | 用料 | Amount | 份量 |
 |-------------|------|--------|------|
@@ -24,7 +24,7 @@ image: ./Images/shrimp-taco.png
 
 
 
-### 🍴️ Steps | 步骤
+### Method | 步骤
 
 1. Prep the shrimp: Peel, devein, remove the tails, rinse, drain, and pat dry with paper towels.  
    准备虾仁：剥壳去虾线，去掉尾部，清洗后沥干，用厨房纸吸干水分。

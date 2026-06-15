@@ -1,50 +1,30 @@
 ---
-title: "Personal Memo System – SQL, React & Python"
+title: "Personal Memo System: SQL, React, and Python"
 image: "../Images/sqlmemo.jpg"
 ---
 
 ![](../Images/sqlmemo.jpg)
 
+## Summary
 
-A full-stack web application designed to help users organize, track, and analyze personal data across domains like health, finance, habits, and goals. The system integrates structured data storage, analytics, and automation to provide a seamless digital assistant for self-management.
+This full-stack application organizes personal records across areas such as health, finance, habits, and goals. It combines structured storage, analysis, and automation in a single workflow for personal data management.
 
----
+## Scope
 
-#### 🔍 **Purpose**
-To offer a secure, user-friendly system for storing and organizing memos, tracking custom metrics, and generating meaningful insights through automation and data visualization. This project highlights full-stack development with MySQL, FastAPI, React, and Python for real-world applications in personal productivity and life organization.
+- Record memos, metrics, categories, tags, and user information through a REST API.
+- Support metric tracking and dashboard-based review of personal trends.
+- Provide authentication, backups, audit logs, and deployable infrastructure.
 
----
+## Implementation
 
-#### 🚀 **Key Features**
-- ✅ **FastAPI Backend** – High-performance RESTful API for managing entries, metrics, users, categories, and tags.
-- ✅ **MySQL & SQLAlchemy** – Reliable relational database for structured, secure data storage.
-- ✅ **React Frontend (TypeScript)** – Interactive and customizable dashboard for memo entry, browsing, and metric visualization.
-- ✅ **Advanced Analytics** – Python-powered insights with Pandas, Matplotlib, and Seaborn: trends, summaries, and visualized metrics.
-- ✅ **Automation Tools** – Scheduled database backups, audit logs, and progress tracking features.
-- ✅ **Category & Tag-Based Organization** – Clean structure to keep data discoverable and meaningful.
-- ✅ **Metric Tracking System** – Visualize personal goals over time, with scatter plots, summary stats, and trend lines.
-- ✅ **User Authentication** – Secure access via JWT-based login system.
-- ✅ **Responsive UI** – Built with Tailwind CSS and Material-UI for a sleek and responsive experience.
+- **Backend:** FastAPI, SQLAlchemy, Alembic, Redis, MySQL.
+- **Frontend:** React, TypeScript, Chart.js, Axios, Material UI, Tailwind CSS.
+- **Analysis and automation:** Python, Pandas, Matplotlib, Seaborn, Docker.
 
----
+## Deliverables
 
-#### 🧰 **Tech Stack**
-- **Backend:** FastAPI, SQLAlchemy, Alembic, Redis, MySQL  
-- **Frontend:** React (TypeScript), Chart.js, Axios, Material-UI  
-- **Automation & Analysis:** Python, Pandas, Matplotlib, Seaborn  
-- **Others:** JWT, Docker, Tailwind CSS  
+- API documentation through Swagger UI.
+- Configurable dashboard for memo entry, browsing, and metric visualization.
+- Python analysis tools for summaries, plots, and trend review.
 
----
-
-#### 💡 **Highlights**
-- Real-time analytics and metric trend tracking  
-- Modular architecture with clean API versioning  
-- Swagger UI API docs for easy exploration (`/docs`)  
-- Customizable dashboards and flexible metric definitions  
-- Fully deployable on a virtual machine or cloud server
-
----
-
-🔗 **GitHub Repository**: [MemoTrack-SQL](https://github.com/ZY-ZHOU23/MemoTrack-SQL)
-
-This project is a comprehensive demonstration of modern full-stack engineering—merging data management, frontend interactivity, backend scalability, and Python-based automation into a single cohesive system.
+**Repository:** [MemoTrack-SQL](https://github.com/ZY-ZHOU23/MemoTrack-SQL)

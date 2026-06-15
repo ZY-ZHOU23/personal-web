@@ -7,74 +7,49 @@ about:
     - text: GitHub
       icon: github
       url: "https://github.com/ZY-ZHOU23"
-    - text: Linkedin
+    - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/zhiyuan-zhou-093972341"
     - text: Resume
       icon: file-earmark-person-fill
       url: "Documents/Resume.pdf"
-  
 comments: false
 css: styles.css
 ---
 
-::: {.column-page}
+:::: {.column-page}
 
-## Bio
+## About Me
 
-Hi there! I’m Zhiyuan Zhou, an economics and data science enthusiast passionate about turning complex data into actionable insights. I recently graduated from UCLA with degrees in Economics and Statistics & Data Science, where I honed my skills in data analysis, statistical modeling, and quantitative decision-making.
+I recently graduated from UCLA with degrees in Economics and Statistics & Data Science, and I'm currently pursuing my Master of Public Policy at the University of Chicago.
 
-I’m now pursuing a Master of Public Policy (MPP) at the University of Chicago, focusing on how data-driven strategies can shape impactful policies and guide evidence-based decision making.
+My work mainly focuses on statistical modeling, data engineering, applied machine learning, and decision support systems. 
 
-When I’m not crunching numbers or building models, you’ll find me exploring nature on a hike, capturing moments through my camera lens, or experimenting with new recipes in the kitchen. 
-
-I’m always eager to connect, collaborate, and learn—whether it’s about data, policy, photography, or the best way to cook a perfect stir-fry!
 
 ---
 
-::: {.columns}
-::: {.column width="50%"}
+:::: {.columns}
+:::: {.column width="50%"}
 
 ## Bonnie~
 
 ```{=html}
-
-<style>
-.carousel-container {
-  width: 90%;
-  max-width: 500px; /* Increased max width */
-  margin: 0 auto;
-}
-
-.carousel-inner img {
-  width: 100%;
-  height: auto;
-  max-height: 500px; /* Increased max height */
-  object-fit: cover;
-  border-radius: 12px;
-}
-</style>
-
 <div class="carousel-container">
   <div id="bonniephoto" class="carousel slide" data-bs-ride="carousel">
-  
-    <!-- Carousel Items -->
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="d-block w-100" src="Images/hammy/h1.jpg" alt="image 1">
+        <img class="d-block w-100" src="Images/hammy/h1.jpg" alt="Bonnie photo 1">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="Images/hammy/h2.jpg" alt="image 2">
+        <img class="d-block w-100" src="Images/hammy/h2.jpg" alt="Bonnie photo 2">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="Images/hammy/h3.jpg" alt="image 3">
+        <img class="d-block w-100" src="Images/hammy/h3.jpg" alt="Bonnie photo 3">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="Images/hammy/h4.jpg" alt="image 4">
+        <img class="d-block w-100" src="Images/hammy/h4.jpg" alt="Bonnie photo 4">
       </div>
     </div>
-    
-    <!-- Navigation Controls -->
     <button class="carousel-control-prev" type="button" data-bs-target="#bonniephoto" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
@@ -87,44 +62,40 @@ I’m always eager to connect, collaborate, and learn—whether it’s about dat
 </div>
 ```
 
-:::
-::: {.column width="50%"}
+::::
+:::: {.column width="50%"}
 
 ## MerMer~
 
 ```{=html}
 <div class="carousel-container">
   <div id="mermerphoto" class="carousel slide" data-bs-ride="carousel">
-  
-    <!-- Carousel Items -->
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="d-block w-100" src="Images/cat/window.jpg" alt="image 1">
+        <img class="d-block w-100" src="Images/cat/window.jpg" alt="MerMer photo 1">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="Images/cat/plate.jpg" alt="image 2">
+        <img class="d-block w-100" src="Images/cat/plate.jpg" alt="MerMer photo 2">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="Images/cat/head.jpg" alt="image 3">
+        <img class="d-block w-100" src="Images/cat/head.jpg" alt="MerMer photo 3">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="Images/cat/jump.jpg" alt="image 4">
+        <img class="d-block w-100" src="Images/cat/jump.jpg" alt="MerMer photo 4">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="Images/cat/catbox.jpg" alt="image 5">
+        <img class="d-block w-100" src="Images/cat/catbox.jpg" alt="MerMer photo 5">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="Images/cat/inbag.jpg" alt="image 6">
+        <img class="d-block w-100" src="Images/cat/inbag.jpg" alt="MerMer photo 6">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="Images/cat/loaf.jpg" alt="image 7">
+        <img class="d-block w-100" src="Images/cat/loaf.jpg" alt="MerMer photo 7">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="Images/cat/car.jpg" alt="image 8">
+        <img class="d-block w-100" src="Images/cat/car.jpg" alt="MerMer photo 8">
       </div>
     </div>
-    
-    <!-- Navigation Controls -->
     <button class="carousel-control-prev" type="button" data-bs-target="#mermerphoto" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
@@ -137,6 +108,7 @@ I’m always eager to connect, collaborate, and learn—whether it’s about dat
 </div>
 ```
 
-:::
-:::
-::: 
+::::
+::::
+
+::::

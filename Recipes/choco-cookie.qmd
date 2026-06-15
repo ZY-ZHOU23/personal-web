@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Chips Cookie <br> 巧克力曲奇"
+title: "Chocolate Chip Cookies <br> 巧克力曲奇"
 categories: [Dessert]
 image: ./Images/choco-cookie.jpg
 ---
 
-### 🥣 Ingredients | 用料
+### Ingredients | 用料
 
 | Ingredient                 | 用料       | Amount | 份量   |
 | -------------------------- | -------- | ------ | ---- |
@@ -19,7 +19,7 @@ image: ./Images/choco-cookie.jpg
 | Chocolate chips            | 巧克力豆     | 300 g  | 300克 |
 
 
-### 🍴 Steps | 步骤
+### Method | 步骤
 
 1. Melt the butter and stir on medium heat until light brown.
   将黄油放入锅中，中火加热并搅拌，直到颜色变为浅棕色。
@@ -52,4 +52,4 @@ image: ./Images/choco-cookie.jpg
     取出烤盘，放凉（不要戳饼干，刚出炉时非常柔软）。
 
  
- [*Reference*](https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/)
+[*Reference*](https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/)

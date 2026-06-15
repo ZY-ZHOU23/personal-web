@@ -4,7 +4,7 @@ categories: [Soup, Pork]
 image: ./Images/pork-rib-soup-kelp.jpg
 ---
 
-### 🥣 Ingredients | 用料
+### Ingredients | 用料
 
 | Ingredient | 用料 | Amount | 份量 |
 |------------|------|--------|------|
@@ -16,7 +16,7 @@ image: ./Images/pork-rib-soup-kelp.jpg
 | Vinegar | 醋 | ½ spoon | 一小勺 |
 | Salt and white pepper | 盐和白胡椒 | To taste | 适量 |
 
-### 🍴 Steps | 步骤
+### Method | 步骤
 1. In a pot with cold water, add pork ribs, cooking wine, and sliced ginger. Bring to a boil, then remove and drain ribs.  
  焯水：冷水锅中加入排骨、料酒和姜片。水沸后捞出排骨。
 2. Heat oil in a pan and lightly brown the ribs.  

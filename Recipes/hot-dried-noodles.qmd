@@ -4,7 +4,7 @@ categories: [Carbs, Spicy]
 image: ./Images/hot-dried-noodles.jpg
 ---
 
-### 🥣 Ingredients | 用料
+### Ingredients | 用料
 
 | Ingredient | 用料 | Amount | 份量 |
 |------------|------|--------|------|
@@ -20,7 +20,7 @@ image: ./Images/hot-dried-noodles.jpg
 | Garlic | 蒜 | 2 cloves | 两瓣 |
 | Salt | 盐 | To taste | 适量 |
 
-### 🍴️ Steps | 步骤
+### Method | 步骤
 1. Finely chop garlic and scallion, set aside.  
  蒜和葱切碎备用。
 2. Heat oil in a pan, stir-fry ground meat until browned, add cooking wine and stir. Add garlic and salt to taste, then remove and set aside.  

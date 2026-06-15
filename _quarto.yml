@@ -5,17 +5,17 @@ project:
 website:
   title: "Zhiyuan Zhou"
   site-url: https://zhiyuanzhou.netlify.app
-  # description: "My website"
+  description: "Portfolio and project documentation for Zhiyuan Zhou."
   navbar:
     right:
       - text: "Home"
         href: index.qmd
       - text: "Projects"
         href: about.qmd
-      - text: "Recipes"
+      - text: "Recipe Reference"
         href: recipes.qmd
   page-footer:
-    left: "© Copyright 2025 Zhiyuan Zhou."
+    left: "© 2025 Zhiyuan Zhou. All rights reserved."
 format:
   html:
     theme:

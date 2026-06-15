@@ -4,7 +4,7 @@ categories: [Chicken, Beef, Pork]
 image: ./Images/curry.jpg
 ---
 
-### 🥣 Ingredients | 用料
+### Ingredients | 用料
 
 | Ingredient | 用料 | Amount | 份量 |
 |------------|------|--------|------|
@@ -15,7 +15,7 @@ image: ./Images/curry.jpg
 | Carrot | 胡萝卜 | 1  | 一根 |
 | Onion | 洋葱 | Half | 半颗 |
 
-### 🍴 Steps | 步骤
+### Method | 步骤
 1. Cut the meat, carrot, potato, and onion into chunks. (Onion slightly larger pieces)  
  将肉、胡萝卜、土豆、洋葱切块。（洋葱切大点）
 2. Heat oil in a pot and stir-fry all the ingredients until partially cooked.  

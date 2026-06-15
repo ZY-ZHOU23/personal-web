@@ -5,30 +5,19 @@ image: "../Images/excel-ledger.jpg"
 
 ![](../Images/excel-ledger.jpg)
 
-A simple, automated Excel-based solution for effortless sales tracking, data entry, and visualization
+## Summary
 
-### The Story Behind This Project
-This project started as a way to help my mom. She runs a small online store, managing every transaction manually in Excel. Since she’s not very familiar with technology, she spends hours inputting and organizing sales data, which is time-consuming and exhausting. I wanted to create something that would simplify her work, reduce the manual effort, and help her focus on what matters—growing her business and taking care of her health.
+This Excel-based tool supports sales recordkeeping for a small online store. It reduces manual entry work by standardizing input fields, validating records, and generating visual summaries from workbook data.
 
-That’s how the Excel VBA Sales Management Tool was born. This tool automates data entry, ensures accuracy, and provides instant visual insights, making sales management faster, easier, and more efficient.
+## Scope
 
-### Key Benefits  
-- **Efficient Sales Data Management** – Simplifies record-keeping with structured data entry and validation.  
-- **Dynamic Customization** – Easily modify fields and parameters to adapt to business needs.  
-- **Automated Visual Insights** – Instantly generate interactive charts to monitor sales trends.  
-- **Seamless Excel Integration** – Built with VBA, leveraging Excel’s capabilities for smooth automation.  
+- Structured sales data entry and validation.
+- Adjustable fields for changing business needs.
+- Batch entry workflows for repeated transactions.
+- Automated chart generation for sales review.
 
-### Features  
-✅ **Dynamic Column Management** – Add or modify data fields directly from the UI.  
-✅ **Real-time Data Validation** – Prevents errors by enforcing correct input formats.  
-✅ **Batch Data Entry** – Speed up workflows with multi-entry support.  
-✅ **Automated Chart Generation** – Instantly create bar charts, line graphs, and more.  
-✅ **User-Friendly Interface** – Designed for ease of use with minimal manual effort.  
+## Implementation
 
+The tool is implemented in Excel with VBA. It keeps the workflow inside a familiar spreadsheet environment while adding automation for repetitive recordkeeping and reporting tasks.
 
-🔗 GitHub Repository: [excel-ledger](https://github.com/ZY-ZHOU23/excel-ledger)
-
-🚀 Tech Stack: Excel, VBA
-
-
-
+**Repository:** [excel-ledger](https://github.com/ZY-ZHOU23/excel-ledger)

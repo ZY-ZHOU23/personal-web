@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Stock Forecasting: A Machine Learning Exploration – Zhiyuan Zhou</title>
+<title>Stock Forecasting with Time Series Models – Zhiyuan Zhou</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../recipes.html"> 
-<span class="menu-text">Recipes</span></a>
+<span class="menu-text">Recipe Reference</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -121,7 +121,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Stock Forecasting: A Machine Learning Exploration</h1>
+<h1 class="title">Stock Forecasting with Time Series Models</h1>
 </div>
 
 
@@ -139,31 +139,29 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="../Images/stock-forecast.jpg" class="img-fluid"></p>
-<p>This project focused on applying and comparing various machine learning models for stock price prediction to gain hands-on experience.</p>
-<p>The <strong>Stock Forecasting project</strong> is a hands-on exploration of machine learning models applied to stock price prediction. Developed using R, it utilizes libraries such as <code>quantmod</code>, <code>forecast</code>, and <code>tidyverse</code> to facilitate data manipulation, visualization, and model implementation. This project emphasizes practical skill development in time series analysis, financial data processing, and predictive modeling, using a range of models.</p>
-<section id="purpose" class="level3">
-<h3 class="anchored" data-anchor-id="purpose">Purpose</h3>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>This project compares statistical and machine learning approaches for stock price forecasting. The analysis was developed in R and focuses on data preparation, technical indicators, model estimation, and performance evaluation.</p>
+</section>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
 <ul>
-<li>Gain practical experience with various time series models.</li>
-<li>Develop skills in analyzing and visualizing stock data trends.</li>
-<li>Practice evaluating the performance of different forecasting models.</li>
-<li>Enhance proficiency in R for machine learning applications.</li>
+<li>Retrieved market data from Yahoo Finance with <code>quantmod</code>.</li>
+<li>Engineered indicators including Bollinger Bands, MACD, and RSI.</li>
+<li>Estimated ARIMAX, NNETAR, XGBoost, GARCH, and combined forecasting models.</li>
+<li>Evaluated results with error metrics including MAPE and MSE.</li>
 </ul>
 </section>
-<section id="key-features" class="level3">
-<h3 class="anchored" data-anchor-id="key-features">Key Features</h3>
+<section id="deliverables" class="level2">
+<h2 class="anchored" data-anchor-id="deliverables">Deliverables</h2>
 <ul>
-<li>✅ <strong>Data Gathering</strong> – Automates stock data collection from Yahoo Finance using <code>quantmod</code>.</li>
-<li>✅ <strong>Feature Engineering</strong> – Calculates technical indicators like Bollinger Bands, MACD, and RSI.</li>
-<li>✅ <strong>Multiple Model Implementation</strong> - Includes ARIMAX, NNETAR, XGBoost, and GARCH models for forecasting.</li>
-<li>✅ <strong>Combined Model</strong> - Implements a combined model to potentially improve forecast accuracy.</li>
-<li>✅ <strong>Model Evaluation</strong> – Assesses model performance using metrics such as MAPE and MSE.</li>
-<li>✅ <strong>Comparative Analysis</strong> – Compares the performance of the different forecasting models to identify effective strategies.</li>
-<li>✅ <strong>Visualization</strong> – Generates plots to visualize stock prices, technical indicators, and model forecasts.</li>
+<li><a href="../Documents/stock-time-series-steps.pdf">Step-by-step analysis</a></li>
+<li><a href="../Documents/stock-time-series-tests.pdf">Visualization report</a></li>
 </ul>
-<p>🔗 <a href="../Documents/stock-time-series-steps.pdf">Step-by-step file</a></p>
-<p>🔗 <a href="../Documents/stock-time-series-tests.pdf">Visualized file</a></p>
-<p>🚀 Tech Stack: R, <code>tidyverse</code>, <code>lubridate</code>, <code>quantmod</code>, <code>tseries</code>, <code>forecast</code>, <code>tsibble</code>, <code>fable</code>, <code>fabletools</code>, <code>feasts</code>, <code>xgboost</code>, <code>caret</code>, <code>rugarch</code></p>
+</section>
+<section id="tools" class="level2">
+<h2 class="anchored" data-anchor-id="tools">Tools</h2>
+<p>R, <code>tidyverse</code>, <code>lubridate</code>, <code>quantmod</code>, <code>tseries</code>, <code>forecast</code>, <code>tsibble</code>, <code>fable</code>, <code>fabletools</code>, <code>feasts</code>, <code>xgboost</code>, <code>caret</code>, <code>rugarch</code>.</p>
 
 
 </section>
@@ -734,7 +732,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© Copyright 2025 Zhiyuan Zhou.</p>
+<p>© 2025 Zhiyuan Zhou. All rights reserved.</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

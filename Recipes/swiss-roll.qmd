@@ -4,7 +4,7 @@ categories: [Dessert]
 image: ./Images/swiss-roll.jpg
 ---
 
-### 🥣 Ingredients | 用料
+### Ingredients | 用料
 
  - **Cake | 蛋糕**
 
@@ -34,7 +34,7 @@ image: ./Images/swiss-roll.jpg
 | Coconut oil | 椰子油 | 30 g | 30克 |
 | Crushed hazelnuts | 榛子碎 | As needed | 适量 |
 
-### 🍴 Steps | 步骤
+### Method | 步骤
 1. Whisk hot water into matcha powder until smooth. If using high-quality matcha, reduce to 8 g. Prepare baking sheet with heatproof parchment.  
  将热水慢慢倒入抹茶粉中调均匀备用。若用好抹茶可减至8克。铺好高温油布。
 2. Separate eggs. Add 15 g sugar to yolks and mix, then stir in oil and matcha liquid in portions.  
@@ -61,4 +61,4 @@ image: ./Images/swiss-roll.jpg
  淋在蛋糕卷上，冷藏半小时后切块。
  
  
-  [*Reference*](https://m.xiachufang.com/recipe/101774593/)
+[*Reference*](https://m.xiachufang.com/recipe/101774593/)
